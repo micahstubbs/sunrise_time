@@ -3,3 +3,5 @@ an ongoing effort to reproduce and remix this [FiveThiryEight post](http://fivet
 the workflow for this project is roughly
 
 [ACS Census Data](http://factfinder2.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t#none) -> [Excel](http://office.microsoft.com/en-us/excel/) -> [PyEphem](https://pypi.python.org/pypi/pyephem/) in [IPython Notebook](http://ipython.org/notebook.html) -> [More IPython Notebook](http://continuum.io/downloads) -> [d3js](https://github.com/mbostock/d3/wiki/Gallery)
+
+links and more on the workflow at this [trello board](https://trello.com/b/0UVpjMok)
