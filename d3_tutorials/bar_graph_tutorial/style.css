@@ -1,0 +1,35 @@
+.chart {
+  background: #b0e0f8;
+  margin: 5px;
+}
+
+.chart rect {
+	stroke: white;
+	fill: steelblue;
+}
+
+.chart text {
+	fill: white;
+}
+
+.chart text.name {
+	fill: #000;
+}
+
+.chart line {
+	stroke: #c1c1c1;
+}
+
+.chart .rule {
+	fill: #000;
+}
+
+/* remove the white stroke as we don't need it anymore */
+#step-5 .chart rect { 
+	stroke: none;
+}
+
+/* a bit of hovering effect for each bar */
+#step-5 .chart rect:hover {
+	fill: #64707D;
+}		
