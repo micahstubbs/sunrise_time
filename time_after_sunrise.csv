@@ -1,0 +1,956 @@
+geoID,geoID2,geography,simpleGeography,meanSunriseTime,q1,q2,q3
+310M100US38200,38200,"Pierre Part, LA Micro Area","Pierre Part, LA",6:38,-76,24,91
+310M100US22780,22780,"Fort Leonard Wood, MO Micro Area","Fort Leonard Wood, MO",6:41,-80,26,99
+310M100US25980,25980,"Hinesville-Fort Stewart, GA Metro Area","Hinesville, GA",6:59,-84,9,79
+310M100US22860,22860,"Fort Polk South, LA Micro Area","Fort Polk South, LA",6:46,-66,22,88
+310M100US15780,15780,"Camden, AR Micro Area","Camden, AR",6:44,-57,27,83
+310M100US17500,17500,"Clewiston, FL Micro Area","Clewiston, FL",6:57,-39,16,65
+310M100US27340,27340,"Jacksonville, NC Metro Area","Jacksonville, NC",6:42,-28,33,106
+310M100US48100,48100,"Wauchula, FL Micro Area","Wauchula, FL",7:00,-33,23,73
+310M100US23940,23940,"Gillette, WY Micro Area","Gillette, WY",6:33,-53,43,105
+310M100US42460,42460,"Scottsboro, AL Micro Area","Scottsboro, AL",6:17,-24,67,139
+310M100US10260,10260,"Adjuntas, PR Micro Area","Adjuntas, PR",6:22,11,63,101
+310M100US10760,10760,"Alexander City, AL Micro Area","Alexander City, AL",6:16,2,66,131
+310M100US17620,17620,"Coamo, PR Micro Area","Coamo, PR",6:20,-5,65,124
+310M100US29980,29980,"Lawrenceburg, TN Micro Area","Lawrenceburg, TN",6:22,0,59,118
+310M100US37700,37700,"Pascagoula, MS Metro Area","Pascagoula, MS",6:27,-77,58,132
+310M100US19760,19760,"DeRidder, LA Micro Area","DeRidder, LA",6:46,-73,41,95
+310M100US11580,11580,"Arcadia, FL Micro Area","Arcadia, FL",7:00,-35,24,84
+310M100US23980,23980,"Glasgow, KY Micro Area","Glasgow, KY",6:16,9,65,136
+310M100US42180,42180,"Santa Isabel, PR Micro Area","Santa Isabel, PR",6:20,8,67,124
+310M100US17300,17300,"Clarksville, TN-KY Metro Area","Clarksville, TN",6:22,-9,63,139
+310M100US14220,14220,"Bogalusa, LA Micro Area","Bogalusa, LA",6:32,-20,55,123
+310M100US32660,32660,"McMinnville, TN Micro Area","McMinnville, TN",6:15,6,69,140
+310M100US43180,43180,"Shelbyville, TN Micro Area","Shelbyville, TN",6:18,-1,68,133
+310M100US26020,26020,"Hobbs, NM Micro Area","Hobbs, NM",6:25,-17,54,115
+310M100US22840,22840,"Fort Payne, AL Micro Area","Fort Payne, AL",6:15,-1,71,137
+310M100US47780,47780,"Washington, IN Micro Area","Washington, IN",7:21,-66,2,65
+310M100US13180,13180,"Beaver Dam, WI Micro Area","Beaver Dam, WI",6:27,-56,58,139
+310M100US38100,38100,"Picayune, MS Micro Area","Picayune, MS",6:32,-53,60,116
+310M100US29860,29860,"Laurel, MS Micro Area","Laurel, MS",6:29,-8,56,109
+310M100US36660,36660,"Opelousas-Eunice, LA Micro Area","Opelousas, LA",6:41,-20,47,95
+310M100US21220,21220,"Elko, NV Micro Area","Elko, NV",6:15,-103,67,168
+310M100US26180,26180,"Honolulu, HI Metro Area","Honolulu, HI",6:26,-5,65,147
+310M100US32980,32980,"Merrill, WI Micro Area","Merrill, WI",6:30,-15,56,128
+310M100US30500,30500,"Lexington Park, MD Micro Area","Lexington Park, MD",6:38,-10,52,112
+310M100US26380,26380,"Houma-Bayou Cane-Thibodaux, LA Metro Area","Houma, LA",6:36,-19,50,106
+310M100US37260,37260,"Palatka, FL Micro Area","Palatka, FL",6:59,-35,32,95
+310M100US48060,48060,"Watertown-Fort Drum, NY Micro Area","Watertown, NY",6:34,-9,51,119
+310M100US27580,27580,"Jayuya, PR Micro Area","Jayuya, PR",6:21,2,63,126
+310M100US40940,40940,"Safford, AZ Micro Area","Safford, AZ",6:12,-62,70,143
+310M100US14300,14300,"Bonham, TX Micro Area","Bonham, TX",6:57,-40,35,93
+310M100US27540,27540,"Jasper, IN Micro Area","Jasper, IN",7:20,-62,6,68
+310M100US36380,36380,"Okeechobee, FL Micro Area","Okeechobee, FL",6:56,-31,30,95
+310M100US28660,28660,"Killeen-Temple-Fort Hood, TX Metro Area","Killeen, TX",7:04,-47,23,88
+310M100US41220,41220,"St. Marys, GA Micro Area","St. Marys, GA",6:59,-24,29,95
+310M100US45180,45180,"Talladega-Sylacauga, AL Micro Area","Talladega, AL",6:17,-5,73,150
+310M100US10700,10700,"Albertville, AL Micro Area","Albertville, AL",6:17,8,71,142
+310M100US10020,10020,"Abbeville, LA Micro Area","Abbeville, LA",6:41,-19,51,104
+310M100US28340,28340,"Kendallville, IN Micro Area","Kendallville, IN",7:13,-104,17,119
+310M100US14740,14740,"Bremerton-Silverdale, WA Metro Area","Bremerton, WA",6:41,-19,51,135
+310M100US35860,35860,"North Vernon, IN Micro Area","North Vernon, IN",7:14,-50,20,121
+310M100US33380,33380,"Minden, LA Micro Area","Minden, LA",6:46,-23,43,111
+310M100US49500,49500,"Yauco, PR Metro Area","Yauco, PR",6:22,9,70,115
+310M100US21640,21640,"Eufaula, AL-GA Micro Area","Eufaula, AL",6:13,15,76,198
+310M100US18980,18980,"Cullman, AL Micro Area","Cullman, AL",6:20,-5,72,136
+310M100US20380,20380,"Dunn, NC Micro Area","Dunn, NC",6:47,-14,50,115
+310M100US27660,27660,"Jennings, LA Micro Area","Jennings, LA",6:43,-24,48,107
+310M100US30280,30280,"Lewisburg, TN Micro Area","Lewisburg, TN",6:20,7,74,150
+310M100US43220,43220,"Shelton, WA Micro Area","Shelton, WA",6:43,-28,56,132
+310M100US25020,25020,"Guayama, PR Metro Area","Guayama, PR",6:19,12,71,124
+310M100US34300,34300,"Mountain Home, ID Micro Area","Mountain Home, ID",7:14,-47,11,80
+310M100US41980,41980,"San Juan-Caguas-Guaynabo, PR Metro Area","San Juan, PR",6:19,15,83,149
+310M100US25260,25260,"Hanford-Corcoran, CA Metro Area","Hanford, CA",6:31,-15,58,136
+310M100US11500,11500,"Anniston-Oxford, AL Metro Area","Anniston, AL",6:16,-1,76,164
+310M100US46580,46580,"Utuado, PR Micro Area","Utuado, PR",6:21,12,74,116
+310M100US18940,18940,"Crowley, LA Micro Area","Crowley, LA",6:42,-23,50,107
+310M100US30060,30060,"Lebanon, MO Micro Area","Lebanon, MO",6:43,-59,47,113
+310M100US21140,21140,"Elkhart-Goshen, IN Metro Area","Elkhart, IN",7:15,-119,15,85
+310M100US41900,41900,"San Germán-Cabo Rojo, PR Metro Area","San Germ, PR",6:23,16,72,124
+310M100US15020,15020,"Brookhaven, MS Micro Area","Brookhaven, MS",6:34,-12,56,128
+310M100US18900,18900,"Crossville, TN Micro Area","Crossville, TN",6:12,33,79,144
+310M100US46180,46180,"Tupelo, MS Micro Area","Tupelo, MS",6:27,8,64,115
+310M100US24700,24700,"Greensburg, IN Micro Area","Greensburg, IN",7:14,-55,15,142
+310M100US39260,39260,"Prineville, OR Micro Area","Prineville, OR",6:34,-26,54,119
+310M100US13620,13620,"Berlin, NH-VT Micro Area","Berlin, NH",6:16,13,74,138
+310M100US16420,16420,"Central City, KY Micro Area","Central City, KY",6:21,3,69,140
+310M100US25220,25220,"Hammond, LA Micro Area","Hammond, LA",6:35,-19,60,128
+310M100US44780,44780,"Sturgis, MI Micro Area","Sturgis, MI",7:13,-48,21,94
+310M100US23900,23900,"Gettysburg, PA Micro Area","Gettysburg, PA",6:41,-16,55,144
+310M100US38660,38660,"Ponce, PR Metro Area","Ponce, PR",6:21,10,73,136
+310M100US12540,12540,"Bakersfield-Delano, CA Metro Area","Bakersfield, CA",6:28,-14,64,138
+310M100US19460,19460,"Decatur, AL Metro Area","Decatur, AL",6:20,6,76,144
+310M100US43660,43660,"Snyder, TX Micro Area","Snyder, TX",7:16,-51,9,69
+310M100US48020,48020,"Watertown-Fort Atkinson, WI Micro Area","Watertown, WI",6:26,-5,66,147
+310M100US27700,27700,"Jesup, GA Micro Area","Jesup, GA",7:00,-21,31,80
+310M100US21460,21460,"Enterprise-Ozark, AL Micro Area","Enterprise, AL",6:16,8,76,144
+310M100US34180,34180,"Moses Lake, WA Micro Area","Moses Lake, WA",6:28,-6,61,121
+310M100US24980,24980,"Grenada, MS Micro Area","Grenada, MS",6:32,-2,57,122
+310M100US13060,13060,"Bay City, TX Micro Area","Bay City, TX",6:57,-37,35,94
+310M100US31460,31460,"Madera-Chowchilla, CA Metro Area","Madera, CA",6:32,-12,63,122
+310M100US19020,19020,"Culpeper, VA Micro Area","Culpeper, VA",6:44,-20,57,119
+310M100US23460,23460,"Gadsden, AL Metro Area","Gadsden, AL",6:17,9,76,163
+310M100US33820,33820,"Monroe, WI Micro Area","Monroe, WI",6:30,-5,63,128
+310M100US25060,25060,"Gulfport-Biloxi, MS Metro Area","Gulfport, MS",6:29,-1,66,147
+310M100US31820,31820,"Manitowoc, WI Micro Area","Manitowoc, WI",6:22,-10,68,187
+310M100US37300,37300,"Palestine, TX Micro Area","Palestine, TX",6:55,-28,37,92
+310M100US42780,42780,"Selinsgrove, PA Micro Area","Selinsgrove, PA",6:39,-14,57,128
+310M100US22620,22620,"Forrest City, AR Micro Area","Forrest City, AR",6:36,-8,55,120
+310M100US25900,25900,"Hilo, HI Micro Area","Hilo, HI",6:15,18,79,149
+310M100US15140,15140,"Brownsville, TN Micro Area","Brownsville, TN",6:29,1,64,127
+310M100US46500,46500,"Urbana, OH Micro Area","Urbana, OH",7:07,-40,30,105
+310M100US49540,49540,"Yazoo City, MS Micro Area","Yazoo City, MS",6:34,9,63,126
+310M100US18260,18260,"Cookeville, TN Micro Area","Cookeville, TN",6:14,31,83,133
+310M100US34020,34020,"Morgan City, LA Micro Area","Morgan City, LA",6:38,-14,53,108
+310M100US28420,28420,"Kennewick-Pasco-Richland, WA Metro Area","Kennewick, WA",6:28,-3,66,140
+310M100US21940,21940,"Fajardo, PR Metro Area","Fajardo, PR",6:17,9,80,155
+310M100US42820,42820,"Selma, AL Micro Area","Selma, AL",6:21,2,72,141
+310M100US49740,49740,"Yuma, AZ Metro Area","Yuma, AZ",6:32,-15,60,138
+310M100US34460,34460,"Mount Sterling, KY Micro Area","Mount Sterling, KY",7:08,-42,26,95
+310M100US22140,22140,"Farmington, NM Metro Area","Farmington, NM",6:45,-18,50,112
+310M100US20900,20900,"El Campo, TX Micro Area","El Campo, TX",6:58,-26,35,79
+310M100US22280,22280,"Fernley, NV Micro Area","Fernley, NV",6:29,-2,73,147
+310M100US41820,41820,"Sanford, NC Micro Area","Sanford, NC",6:49,-13,46,106
+310M100US35340,35340,"New Iberia, LA Micro Area","New Iberia, LA",6:40,-7,54,109
+310M100US26480,26480,"Humboldt, TN Micro Area","Humboldt, TN",6:28,14,70,120
+310M100US33660,33660,"Mobile, AL Metro Area","Mobile, AL",6:25,10,73,139
+310M100US12820,12820,"Bastrop, LA Micro Area","Bastrop, LA",6:40,-5,55,115
+310M100US42620,42620,"Searcy, AR Micro Area","Searcy, AR",6:39,-11,55,112
+310M100US12940,12940,"Baton Rouge, LA Metro Area","Baton Rouge, LA",6:37,-4,62,126
+310M100US20180,20180,"DuBois, PA Micro Area","DuBois, PA",6:47,-20,47,131
+310M100US47500,47500,"Walterboro, SC Micro Area","Walterboro, SC",6:55,-32,50,107
+310M100US13140,13140,"Beaumont-Port Arthur, TX Metro Area","Beaumont, TX",6:49,-23,46,110
+310M100US30740,30740,"Lincolnton, NC Micro Area","Lincolnton, NC",6:57,-17,48,118
+310M100US14180,14180,"Blytheville, AR Micro Area","Blytheville, AR",6:32,-7,61,149
+310M100US29340,29340,"Lake Charles, LA Metro Area","Lake Charles, LA",6:46,-17,49,116
+310M100US36980,36980,"Owensboro, KY Metro Area","Owensboro, KY",6:20,21,74,152
+310M100US49700,49700,"Yuba City, CA Metro Area","Yuba City, CA",6:38,-16,61,148
+310M100US11380,11380,"Andrews, TX Micro Area","Andrews, TX",7:23,-50,7,73
+310M100US25760,25760,"Helena-West Helena, AR Micro Area","Helena, AR",6:35,2,56,116
+310M100US42380,42380,"Sayre, PA Micro Area","Sayre, PA",6:38,-15,58,128
+310M100US22180,22180,"Fayetteville, NC Metro Area","Fayetteville, NC",6:48,-24,50,119
+310M100US20020,20020,"Dothan, AL Metro Area","Dothan, AL",6:14,26,82,146
+310M100US45380,45380,"Taylorville, IL Micro Area","Taylorville, IL",6:29,4,69,127
+310M100US24180,24180,"Granbury, TX Micro Area","Granbury, TX",7:04,-33,37,100
+310M100US16900,16900,"Chester, SC Micro Area","Chester, SC",6:57,-12,48,115
+310M100US19540,19540,"Decatur, IN Micro Area","Decatur, IN",7:11,-50,23,88
+310M100US32620,32620,"McComb, MS Micro Area","McComb, MS",6:35,4,61,147
+310M100US48500,48500,"West Point, MS Micro Area","West Point, MS",6:27,-7,70,160
+310M100US37740,37740,"Payson, AZ Micro Area","Payson, AZ",6:19,-8,73,134
+310M100US30820,30820,"Lock Haven, PA Micro Area","Lock Haven, PA",6:41,-15,55,150
+310M100US12300,12300,"Augusta-Waterville, ME Micro Area","Augusta, ME",6:10,26,89,150
+310M100US38700,38700,"Pontiac, IL Micro Area","Pontiac, IL",6:26,2,66,135
+310M100US34700,34700,"Muscatine, IA Micro Area","Muscatine, IA",6:36,-16,58,154
+310M100US22820,22820,"Fort Morgan, CO Micro Area","Fort Morgan, CO",6:27,-3,63,129
+310M100US27380,27380,"Jacksonville, TX Micro Area","Jacksonville, TX",6:54,0,42,95
+310M100US15900,15900,"Canton, IL Micro Area","Canton, IL",6:32,-11,69,137
+310M100US47080,47080,"Vidalia, GA Micro Area","Vidalia, GA",7:02,-27,34,82
+310M100US40300,40300,"Rochelle, IL Micro Area","Rochelle, IL",6:28,-6,72,154
+310M100US32460,32460,"Mayfield, KY Micro Area","Mayfield, KY",6:27,19,71,147
+310M100US10380,10380,"Aguadilla-Isabela-San Sebastián, PR Metro Area","Aguadilla, PR",6:23,20,77,136
+310M100US22540,22540,"Fond du Lac, WI Metro Area","Fond du Lac, WI",6:25,1,71,175
+310M100US42900,42900,"Seneca Falls, NY Micro Area","Seneca Falls, NY",6:39,-7,59,126
+310M100US46460,46460,"Union City, TN-KY Micro Area","Union City, TN",6:28,18,68,138
+310M100US45980,45980,"Troy, AL Micro Area","Troy, AL",6:17,9,76,155
+310M100US40140,40140,"Riverside-San Bernardino-Ontario, CA Metro Area","Riverside, CA",6:22,0,81,179
+310M100US47300,47300,"Visalia-Porterville, CA Metro Area","Visalia, CA",6:29,-13,68,141
+310M100US42980,42980,"Seymour, IN Micro Area","Seymour, IN",7:15,-52,22,119
+310M100US46980,46980,"Vicksburg, MS Micro Area","Vicksburg, MS",6:36,7,59,117
+310M100US19940,19940,"Dixon, IL Micro Area","Dixon, IL",6:29,-1,67,146
+310M100US18880,18880,"Crestview-Fort Walton Beach-Destin, FL Metro Area","Crestview, FL",6:19,15,81,165
+310M100US46100,46100,"Tullahoma, TN Micro Area","Tullahoma, TN",6:17,18,82,165
+310M100US39860,39860,"Red Wing, MN Micro Area","Red Wing, MN",6:41,-16,59,134
+310M100US43460,43460,"Sikeston, MO Micro Area","Sikeston, MO",6:30,4,66,136
+310M100US25780,25780,"Henderson, NC Micro Area","Henderson, NC",6:46,-8,52,118
+310M100US17940,17940,"Columbia, TN Micro Area","Columbia, TN",6:21,13,82,163
+310M100US10780,10780,"Alexandria, LA Metro Area","Alexandria, LA",6:43,-7,55,118
+310M100US46420,46420,"Union, SC Micro Area","Union, SC",6:59,-24,42,107
+310M100US31940,31940,"Marinette, WI-MI Micro Area","Marinette, WI",6:21,-10,74,192
+310M100US32220,32220,"Marshall, TX Micro Area","Marshall, TX",6:50,-16,49,122
+310M100US25180,25180,"Hagerstown-Martinsburg, MD-WV Metro Area","Hagerstown, MD",6:44,-18,59,152
+310M100US37800,37800,"Pella, IA Micro Area","Pella, IA",6:43,-11,51,115
+310M100US49420,49420,"Yakima, WA Metro Area","Yakima, WA",6:33,-1,65,132
+310M100US21060,21060,"Elizabethtown, KY Metro Area","Elizabethtown, KY",7:16,-40,23,90
+310M100US15860,15860,"Cañon City, CO Micro Area","Ca, CO",6:33,-1,63,144
+310M100US13820,13820,"Birmingham-Hoover, AL Metro Area","Birmingham, AL",6:20,23,84,149
+310M100US33860,33860,"Montgomery, AL Metro Area","Montgomery, AL",6:18,30,83,147
+310M100US38500,38500,"Plymouth, IN Micro Area","Plymouth, IN",7:17,-56,21,97
+310M100US24540,24540,"Greeley, CO Metro Area","Greeley, CO",6:31,4,71,146
+310M100US16540,16540,"Chambersburg, PA Micro Area","Chambersburg, PA",6:42,-14,59,139
+310M100US47700,47700,"Warsaw, IN Micro Area","Warsaw, IN",7:15,-55,23,108
+310M100US16100,16100,"Carlsbad-Artesia, NM Micro Area","Carlsbad, NM",6:30,-3,64,116
+310M100US20140,20140,"Dublin, GA Micro Area","Dublin, GA",7:04,-14,34,91
+310M100US19300,19300,"Daphne-Fairhope-Foley, AL Micro Area","Daphne, AL",6:24,18,78,141
+310M100US49620,49620,"York-Hanover, PA Metro Area","York, PA",6:39,-4,63,148
+310M100US35100,35100,"New Bern, NC Micro Area","New Bern, NC",6:41,-7,57,127
+310M100US36940,36940,"Owatonna, MN Micro Area","Owatonna, MN",6:44,-5,49,111
+310M100US27620,27620,"Jefferson City, MO Metro Area","Jefferson City, MO",6:41,7,57,104
+310M100US43380,43380,"Sidney, OH Micro Area","Sidney, OH",7:08,-42,30,143
+310M100US24580,24580,"Green Bay, WI Metro Area","Green Bay, WI",6:23,10,76,158
+310M100US11980,11980,"Athens, TX Micro Area","Athens, TX",6:56,-25,48,111
+310M100US18620,18620,"Corsicana, TX Micro Area","Corsicana, TX",6:59,-25,40,115
+310M100US33620,33620,"Moberly, MO Micro Area","Moberly, MO",6:42,1,55,113
+310M100US40540,40540,"Rock Springs, WY Micro Area","Rock Springs, WY",6:49,-23,46,122
+310M100US30380,30380,"Lewistown, PA Micro Area","Lewistown, PA",6:42,-13,57,170
+310M100US32940,32940,"Meridian, MS Micro Area","Meridian, MS",6:27,17,73,139
+310M100US26420,26420,"Houston-Sugar Land-Baytown, TX Metro Area","Houston, TX",6:54,-13,53,121
+310M100US38580,38580,"Point Pleasant, WV-OH Micro Area","Point Pleasant, WV",7:00,-17,43,106
+310M100US10620,10620,"Albemarle, NC Micro Area","Albemarle, NC",6:53,-19,49,110
+310M100US22100,22100,"Farmington, MO Micro Area","Farmington, MO",6:34,-8,65,153
+310M100US32420,32420,"Mayagüez, PR Metro Area","Mayag, PR",6:23,38,79,145
+310M100US21980,21980,"Fallon, NV Micro Area","Fallon, NV",6:27,8,68,118
+310M100US11860,11860,"Atchison, KS Micro Area","Atchison, KS",6:52,-20,42,122
+310M100US24820,24820,"Greenville, OH Micro Area","Greenville, OH",7:10,-41,30,116
+310M100US15660,15660,"Calhoun, GA Micro Area","Calhoun, GA",7:12,-7,31,92
+310M100US18740,18740,"Coshocton, OH Micro Area","Coshocton, OH",6:59,-41,40,131
+310M100US37860,37860,"Pensacola-Ferry Pass-Brent, FL Metro Area","Pensacola, FL",6:22,21,80,149
+310M100US18060,18060,"Columbus, MS Micro Area","Columbus, MS",6:26,19,73,152
+310M100US14940,14940,"Brigham City, UT Micro Area","Brigham City, UT",7:00,-44,40,140
+310M100US12380,12380,"Austin, MN Micro Area","Austin, MN",6:43,-22,51,206
+310M100US43420,43420,"Sierra Vista-Douglas, AZ Micro Area","Sierra Vista, AZ",6:15,18,83,149
+310M100US26940,26940,"Indianola, MS Micro Area","Indianola, MS",6:35,8,60,112
+310M100US37500,37500,"Paragould, AR Micro Area","Paragould, AR",6:34,9,64,180
+310M100US44900,44900,"Summerville, GA Micro Area","Summerville, GA",7:14,-1,26,83
+310M100US43740,43740,"Somerset, PA Micro Area","Somerset, PA",6:48,-19,52,124
+310M100US28820,28820,"Kinston, NC Micro Area","Kinston, NC",6:43,-3,58,127
+310M100US24900,24900,"Greenwood, MS Micro Area","Greenwood, MS",6:33,19,63,97
+310M100US45620,45620,"Thomasville, GA Micro Area","Thomasville, GA",7:09,-19,30,84
+310M100US21020,21020,"Elizabeth City, NC Micro Area","Elizabeth City, NC",6:37,-1,64,126
+310M100US39700,39700,"Raymondville, TX Micro Area","Raymondville, TX",7:04,-7,35,80
+310M100US38060,38060,"Phoenix-Mesa-Glendale, AZ Metro Area","Phoenix, AZ",6:21,11,85,169
+310M100US32280,32280,"Martin, TN Micro Area","Martin, TN",6:28,9,72,134
+310M100US33140,33140,"Michigan City-La Porte, IN Metro Area","Michigan City, IN",6:19,5,82,177
+310M100US27980,27980,"Kahului-Wailuku, HI Micro Area","Kahului, HI",6:20,21,80,178
+310M100US32270,32270,"Marshfield-Wisconsin Rapids, WI Micro Area","Marshfield, WI",6:32,6,64,145
+310M100US49020,49020,"Winchester, VA-WV Metro Area","Winchester, VA",6:45,-15,59,132
+310M100US17200,17200,"Claremont, NH Micro Area","Claremont, NH",6:21,17,84,147
+310M100US16340,16340,"Cedartown, GA Micro Area","Cedartown, GA",7:13,-43,31,121
+310M100US35900,35900,"North Wilkesboro, NC Micro Area","North Wilkesboro, NC",6:57,-10,46,109
+310M100US37820,37820,"Pendleton-Hermiston, OR Micro Area","Pendleton, OR",6:26,1,70,164
+310M100US39540,39540,"Racine, WI Metro Area","Racine, WI",6:23,16,80,163
+310M100US30020,30020,"Lawton, OK Metro Area","Lawton, OK",7:06,-39,32,105
+310M100US34220,34220,"Moultrie, GA Micro Area","Moultrie, GA",7:08,-19,32,93
+310M100US48180,48180,"Waycross, GA Micro Area","Waycross, GA",7:02,-20,38,98
+310M100US48140,48140,"Wausau, WI Metro Area","Wausau, WI",6:30,6,69,146
+310M100US32900,32900,"Merced, CA Metro Area","Merced, CA",6:34,-16,66,150
+310M100US11540,11540,"Appleton, WI Metro Area","Appleton, WI",6:25,11,75,144
+310M100US39060,39060,"Pottsville, PA Micro Area","Pottsville, PA",6:36,-9,67,161
+310M100US20540,20540,"Dyersburg, TN Micro Area","Dyersburg, TN",6:30,13,68,131
+310M100US29180,29180,"Lafayette, LA Metro Area","Lafayette, LA",6:41,8,61,122
+310M100US47660,47660,"Warrensburg, MO Micro Area","Warrensburg, MO",6:47,-9,53,181
+310M100US37220,37220,"Pahrump, NV Micro Area","Pahrump, NV",6:16,-51,84,208
+310M100US10460,10460,"Alamogordo, NM Micro Area","Alamogordo, NM",6:36,5,65,123
+310M100US48580,48580,"Whitewater, WI Micro Area","Whitewater, WI",6:26,11,76,175
+310M100US30340,30340,"Lewiston-Auburn, ME Metro Area","Lewiston, ME",6:12,25,90,162
+310M100US26620,26620,"Huntsville, AL Metro Area","Huntsville, AL",6:19,30,85,145
+310M100US44580,44580,"Sterling, IL Micro Area","Sterling, IL",6:30,-7,70,132
+310M100US47540,47540,"Wapakoneta, OH Micro Area","Wapakoneta, OH",7:08,-39,33,140
+310M100US35060,35060,"Natchitoches, LA Micro Area","Natchitoches, LA",6:45,-10,55,130
+310M100US29220,29220,"La Follette, TN Micro Area","La Follette, TN",7:09,-34,36,124
+310M100US43260,43260,"Sheridan, WY Micro Area","Sheridan, WY",6:39,3,57,111
+310M100US46700,46700,"Vallejo-Fairfield, CA Metro Area","Vallejo, CA",6:41,-8,65,157
+310M100US27140,27140,"Jackson, MS Metro Area","Jackson, MS",6:33,23,72,127
+310M100US23140,23140,"Frankfort, IN Micro Area","Frankfort, IN",7:18,-52,24,187
+310M100US44700,44700,"Stockton, CA Metro Area","Stockton, CA",6:37,-15,68,161
+310M100US17220,17220,"Clarksburg, WV Micro Area","Clarksburg, WV",6:53,-10,51,124
+310M100US30980,30980,"Longview, TX Metro Area","Longview, TX",6:52,-15,50,111
+310M100US37540,37540,"Paris, TN Micro Area","Paris, TN",6:25,24,76,126
+310M100US25300,25300,"Hannibal, MO Micro Area","Hannibal, MO",6:37,-1,62,125
+310M100US33020,33020,"Mexico, MO Micro Area","Mexico, MO",6:39,4,58,133
+310M100US15700,15700,"Cambridge, MD Micro Area","Cambridge, MD",6:36,5,68,127
+310M100US26500,26500,"Huntingdon, PA Micro Area","Huntingdon, PA",6:44,-17,62,161
+310M100US16940,16940,"Cheyenne, WY Metro Area","Cheyenne, WY",6:31,16,67,121
+310M100US34980,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area","Nashville, TN",6:19,29,89,164
+310M100US10540,10540,"Albany-Lebanon, OR Micro Area","Albany, OR",6:43,-11,62,139
+310M100US20980,20980,"El Dorado, AR Micro Area","El Dorado, AR",6:43,-2,57,112
+310M100US22520,22520,"Florence-Muscle Shoals, AL Metro Area","Florence, AL",6:23,12,80,151
+310M100US35940,35940,"Norwalk, OH Micro Area","Norwalk, OH",7:02,-33,40,164
+310M100US33420,33420,"Mineral Wells, TX Micro Area","Mineral Wells, TX",7:05,-32,36,92
+310M100US47020,47020,"Victoria, TX Metro Area","Victoria, TX",7:01,-23,40,98
+310M100US21780,21780,"Evansville, IN-KY Metro Area","Evansville, IN",6:22,17,81,180
+310M100US10880,10880,"Allegan, MI Micro Area","Allegan, MI",7:15,-36,31,112
+310M100US18420,18420,"Corinth, MS Micro Area","Corinth, MS",6:26,19,75,140
+310M100US21580,21580,"Espanola, NM Micro Area","Espanola, NM",6:37,12,71,121
+310M100US12140,12140,"Auburn, IN Micro Area","Auburn, IN",7:12,-46,30,126
+310M100US35500,35500,"Newton, IA Micro Area","Newton, IA",6:44,-8,59,123
+310M100US31920,31920,"Marble Falls, TX Micro Area","Marble Falls, TX",7:06,-20,39,107
+310M100US35420,35420,"New Philadelphia-Dover, OH Micro Area","New Philadelphia, OH",6:57,-29,45,130
+310M100US36860,36860,"Ottawa-Streator, IL Micro Area","Ottawa, IL",6:27,-2,74,159
+310M100US24140,24140,"Goldsboro, NC Metro Area","Goldsboro, NC",6:44,2,59,142
+310M100US20060,20060,"Douglas, GA Micro Area","Douglas, GA",7:04,-22,37,94
+310M100US46220,46220,"Tuscaloosa, AL Metro Area","Tuscaloosa, AL",6:23,20,82,158
+310M100US35220,35220,"New Castle, IN Micro Area","New Castle, IN",7:13,-45,33,123
+310M100US25340,25340,"Harriman, TN Micro Area","Harriman, TN",7:11,-36,36,112
+310M100US40340,40340,"Rochester, MN Metro Area","Rochester, MN",6:41,9,60,123
+310M100US29540,29540,"Lancaster, PA Metro Area","Lancaster, PA",6:37,1,66,145
+310M100US34420,34420,"Mount Pleasant, TX Micro Area","Mount Pleasant, TX",6:52,-12,47,125
+310M100US35580,35580,"New Ulm, MN Micro Area","New Ulm, MN",6:49,-12,48,115
+310M100US25820,25820,"Hereford, TX Micro Area","Hereford, TX",7:22,-49,15,59
+310M100US22220,22220,"Fayetteville-Springdale-Rogers, AR-MO Metro Area","Fayetteville, AR",6:49,3,55,117
+310M100US26780,26780,"Hutchinson, MN Micro Area","Hutchinson, MN",6:49,-17,52,129
+310M100US37460,37460,"Panama City-Lynn Haven-Panama City Beach, FL Metro Area","Panama City, FL",6:16,29,88,172
+310M100US44980,44980,"Sunbury, PA Micro Area","Sunbury, PA",6:39,-4,67,168
+310M100US20340,20340,"Duncan, OK Micro Area","Duncan, OK",7:04,-25,37,92
+310M100US40500,40500,"Rockland, ME Micro Area","Rockland, ME",6:08,32,93,152
+310M100US26260,26260,"Hope, AR Micro Area","Hope, AR",6:47,-6,57,117
+310M100US23620,23620,"Gainesville, TX Micro Area","Gainesville, TX",7:01,-30,42,114
+310M100US22340,22340,"Fitzgerald, GA Micro Area","Fitzgerald, GA",7:06,-18,36,89
+310M100US39780,39780,"Red Bluff, CA Micro Area","Red Bluff, CA",6:41,-11,65,144
+310M100US30140,30140,"Lebanon, PA Metro Area","Lebanon, PA",6:37,2,69,158
+310M100US13340,13340,"Bellefontaine, OH Micro Area","Bellefontaine, OH",7:07,-42,37,160
+310M100US25620,25620,"Hattiesburg, MS Metro Area","Hattiesburg, MS",6:30,16,74,145
+310M100US36060,36060,"Oak Hill, WV Micro Area","Oak Hill, WV",6:57,-12,50,148
+310M100US24620,24620,"Greeneville, TN Micro Area","Greeneville, TN",7:03,-26,43,125
+310M100US22980,22980,"Fort Valley, GA Micro Area","Fort Valley, GA",7:08,-26,40,139
+310M100US48300,48300,"Wenatchee-East Wenatchee, WA Metro Area","Wenatchee, WA",6:32,11,70,132
+310M100US34540,34540,"Mount Vernon, OH Micro Area","Mount Vernon, OH",7:02,-24,44,126
+310M100US30780,30780,"Little Rock-North Little Rock-Conway, AR Metro Area","Little Rock, AR",6:42,10,64,124
+310M100US11220,11220,"Amsterdam, NY Micro Area","Amsterdam, NY",6:28,5,78,154
+310M100US41700,41700,"San Antonio-New Braunfels, TX Metro Area","San Antonio, TX",7:07,-17,41,119
+310M100US37940,37940,"Peru, IN Micro Area","Peru, IN",7:16,-37,30,178
+310M100US37140,37140,"Paducah, KY-IL Micro Area","Paducah, KY",6:27,13,75,149
+310M100US13260,13260,"Bedford, IN Micro Area","Bedford, IN",7:18,-52,28,101
+310M100US46260,46260,"Tuskegee, AL Micro Area","Tuskegee, AL",6:15,34,92,214
+310M100US46900,46900,"Vernon, TX Micro Area","Vernon, TX",7:10,-28,27,58
+310M100US20940,20940,"El Centro, CA Metro Area","El Centro, CA",6:15,-4,89,161
+310M100US24100,24100,"Gloversville, NY Micro Area","Gloversville, NY",6:29,12,75,172
+310M100US36020,36020,"Oak Harbor, WA Micro Area","Oak Harbor, WA",6:41,-6,63,163
+310M100US23580,23580,"Gainesville, GA Metro Area","Gainesville, GA",7:08,-11,40,119
+310M100US17820,17820,"Colorado Springs, CO Metro Area","Colorado Springs, CO",6:31,15,76,145
+310M100US18500,18500,"Corning, NY Micro Area","Corning, NY",6:40,3,64,125
+310M100US41260,41260,"St. Marys, PA Micro Area","St. Marys, PA",6:46,-3,56,201
+310M100US18460,18460,"Cornelia, GA Micro Area","Cornelia, GA",7:07,-16,37,98
+310M100US30900,30900,"Logansport, IN Micro Area","Logansport, IN",7:17,-47,26,176
+310M100US28380,28380,"Kennett, MO Micro Area","Kennett, MO",6:32,3,70,129
+310M100US28100,28100,"Kankakee-Bradley, IL Metro Area","Kankakee, IL",6:23,9,81,172
+310M100US17060,17060,"Chillicothe, OH Micro Area","Chillicothe, OH",7:04,-27,41,162
+310M100US41420,41420,"Salem, OR Metro Area","Salem, OR",6:43,1,62,138
+310M100US35140,35140,"Newberry, SC Micro Area","Newberry, SC",6:59,-19,49,144
+310M100US36100,36100,"Ocala, FL Metro Area","Ocala, FL",7:01,-15,47,118
+310M100US20620,20620,"East Liverpool-Salem, OH Micro Area","East Liverpool, OH",6:54,-25,53,170
+310M100US31300,31300,"Lumberton, NC Micro Area","Lumberton, NC",6:48,10,59,124
+310M100US47260,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area","Virginia Beach, VA",6:37,4,71,147
+310M100US38220,38220,"Pine Bluff, AR Metro Area","Pine Bluff, AR",6:41,-2,64,125
+310M100US45640,45640,"Thomasville-Lexington, NC Micro Area","Thomasville, NC",6:53,-1,55,121
+310M100US39740,39740,"Reading, PA Metro Area","Reading, PA",6:36,3,71,161
+310M100US42700,42700,"Sebring, FL Micro Area","Sebring, FL",6:59,-9,45,118
+310M100US25380,25380,"Harrisburg, IL Micro Area","Harrisburg, IL",6:26,15,77,151
+310M100US11780,11780,"Ashtabula, OH Micro Area","Ashtabula, OH",6:55,-19,52,161
+310M100US28180,28180,"Kapaa, HI Micro Area","Kapaa, HI",6:32,15,73,160
+310M100US45740,45740,"Toccoa, GA Micro Area","Toccoa, GA",7:06,-13,37,123
+310M100US42500,42500,"Scottsburg, IN Micro Area","Scottsburg, IN",7:15,-49,33,233
+310M100US10860,10860,"Alice, TX Micro Area","Alice, TX",7:05,-16,39,86
+310M100US44380,44380,"Statesville-Mooresville, NC Micro Area","Statesville, NC",6:56,-11,52,116
+310M100US27500,27500,"Janesville, WI Metro Area","Janesville, WI",6:27,9,79,187
+310M100US14340,14340,"Boone, IA Micro Area","Boone, IA",6:47,-2,59,115
+310M100US47620,47620,"Warren, PA Micro Area","Warren, PA",6:48,-10,56,138
+310M100US47580,47580,"Warner Robins, GA Metro Area","Warner Robins, GA",7:07,-17,39,109
+310M100US46860,46860,"Vernal, UT Micro Area","Vernal, UT",6:50,-23,50,112
+310M100US17660,17660,"Coeur d'Alene, ID Metro Area","Coeur d, ID",6:18,19,87,171
+310M100US19180,19180,"Danville, IL Metro Area","Danville, IL",6:22,20,82,177
+310M100US15460,15460,"Burlington, IA-IL Micro Area","Burlington, IA",6:36,-9,65,174
+310M100US14420,14420,"Borger, TX Micro Area","Borger, TX",7:18,-34,23,91
+310M100US32180,32180,"Marshall, MO Micro Area","Marshall, MO",6:45,-12,55,185
+310M100US14100,14100,"Bloomsburg-Berwick, PA Micro Area","Bloomsburg, PA",6:37,13,68,181
+310M100US37020,37020,"Owosso, MI Micro Area","Owosso, MI",7:08,-25,43,141
+310M100US45520,45520,"The Dalles, OR Micro Area","The Dalles, OR",6:36,11,64,121
+310M100US29060,29060,"Laconia, NH Micro Area","Laconia, NH",6:17,33,91,155
+310M100US23340,23340,"Fremont, NE Micro Area","Fremont, NE",6:58,-24,43,110
+310M100US40820,40820,"Ruston, LA Micro Area","Ruston, LA",6:43,10,60,177
+310M100US44940,44940,"Sumter, SC Metro Area","Sumter, SC",6:54,1,51,113
+310M100US20700,20700,"East Stroudsburg, PA Micro Area","East Stroudsburg, PA",6:32,-7,82,209
+310M100US18180,18180,"Concord, NH Micro Area","Concord, NH",6:18,33,92,152
+310M100US29900,29900,"Laurinburg, NC Micro Area","Laurinburg, NC",6:50,6,55,112
+310M100US44860,44860,"Sulphur Springs, TX Micro Area","Sulphur Springs, TX",6:55,-15,50,96
+310M100US29460,29460,"Lakeland-Winter Haven, FL Metro Area","Lakeland, FL",7:01,-11,51,118
+310M100US23420,23420,"Fresno, CA Metro Area","Fresno, CA",6:31,10,77,152
+310M100US29380,29380,"Lake City, FL Micro Area","Lake City, FL",7:03,-20,44,114
+310M100US12620,12620,"Bangor, ME Metro Area","Bangor, ME",6:06,38,101,184
+310M100US12180,12180,"Auburn, NY Micro Area","Auburn, NY",6:38,1,69,149
+310M100US22900,22900,"Fort Smith, AR-OK Metro Area","Fort Smith, AR",6:50,-6,57,134
+310M100US45500,45500,"Texarkana, TX-Texarkana, AR Metro Area","Texarkana, TX",6:49,-9,57,126
+310M100US32540,32540,"McAlester, OK Micro Area","McAlester, OK",6:55,-28,51,102
+310M100US14780,14780,"Brenham, TX Micro Area","Brenham, TX",6:58,-11,47,98
+310M100US17540,17540,"Clinton, IA Micro Area","Clinton, IA",6:32,3,71,150
+310M100US36820,36820,"Oskaloosa, IA Micro Area","Oskaloosa, IA",6:42,-13,61,128
+310M100US42740,42740,"Sedalia, MO Micro Area","Sedalia, MO",6:45,-3,60,180
+310M100US16380,16380,"Celina, OH Micro Area","Celina, OH",7:10,-39,35,121
+310M100US12740,12740,"Barre, VT Micro Area","Barre, VT",6:21,36,87,140
+310M100US20820,20820,"Effingham, IL Micro Area","Effingham, IL",6:26,30,79,129
+310M100US11140,11140,"Americus, GA Micro Area","Americus, GA",7:10,-21,36,90
+310M100US47220,47220,"Vineland-Millville-Bridgeton, NJ Metro Area","Vineland, NJ",6:32,6,76,152
+310M100US12860,12860,"Batavia, NY Micro Area","Batavia, NY",6:44,1,64,135
+310M100US22060,22060,"Faribault-Northfield, MN Micro Area","Faribault, MN",6:44,-12,63,156
+310M100US33700,33700,"Modesto, CA Metro Area","Modesto, CA",6:36,-9,74,169
+310M100US37660,37660,"Parsons, KS Micro Area","Parsons, KS",6:53,-16,49,102
+310M100US31580,31580,"Madisonville, KY Micro Area","Madisonville, KY",6:22,18,84,224
+310M100US49300,49300,"Wooster, OH Micro Area","Wooster, OH",6:59,-22,48,130
+310M100US33740,33740,"Monroe, LA Metro Area","Monroe, LA",6:41,16,66,120
+310M100US43060,43060,"Shawnee, OK Micro Area","Shawnee, OK",7:00,-21,48,121
+310M100US45260,45260,"Tallulah, LA Micro Area","Tallulah, LA",6:37,30,63,113
+310M100US30100,30100,"Lebanon, NH-VT Micro Area","Lebanon, NH",6:21,31,87,149
+310M100US45540,45540,"The Villages, FL Micro Area","The Villages, FL",7:01,-11,47,105
+310M100US11420,11420,"Angola, IN Micro Area","Angola, IN",7:12,-36,35,152
+310M100US39660,39660,"Rapid City, SD Metro Area","Rapid City, SD",6:24,27,82,145
+310M100US22800,22800,"Fort Madison-Keokuk, IA-MO Micro Area","Fort Madison, IA",6:37,-5,68,180
+310M100US36500,36500,"Olympia, WA Metro Area","Olympia, WA",6:42,4,69,135
+310M100US20100,20100,"Dover, DE Metro Area","Dover, DE",6:34,12,77,177
+310M100US36780,36780,"Oshkosh-Neenah, WI Metro Area","Oshkosh, WI",6:25,17,82,209
+310M100US33940,33940,"Montrose, CO Micro Area","Montrose, CO",6:43,3,61,108
+310M100US43320,43320,"Show Low, AZ Micro Area","Show Low, AZ",6:14,24,92,154
+310M100US15260,15260,"Brunswick, GA Metro Area","Brunswick, GA",6:59,-10,50,111
+310M100US43860,43860,"Southern Pines-Pinehurst, NC Micro Area","Southern Pines, NC",6:50,9,61,121
+310M100US17700,17700,"Coffeyville, KS Micro Area","Coffeyville, KS",6:55,-22,49,118
+310M100US46780,46780,"Van Wert, OH Micro Area","Van Wert, OH",7:10,-31,36,155
+310M100US34660,34660,"Murray, KY Micro Area","Murray, KY",6:26,23,78,174
+310M100US28540,28540,"Ketchikan, AK Micro Area","Ketchikan, AK",6:15,31,88,138
+310M100US48460,48460,"West Plains, MO Micro Area","West Plains, MO",6:40,14,67,117
+310M100US47420,47420,"Wahpeton, ND-MN Micro Area","Wahpeton, ND",6:57,-11,46,102
+310M100US38420,38420,"Platteville, WI Micro Area","Platteville, WI",6:33,7,75,185
+310M100US12260,12260,"Augusta-Richmond County, GA-SC Metro Area","Augusta, GA",7:01,-14,51,123
+310M100US25860,25860,"Hickory-Lenoir-Morganton, NC Metro Area","Hickory, NC",6:58,-13,51,123
+310M100US16700,16700,"Charleston-North Charleston-Summerville, SC Metro Area","Charleston, SC",6:53,0,60,136
+310M100US26540,26540,"Huntington, IN Micro Area","Huntington, IN",7:14,-41,33,228
+310M100US41500,41500,"Salinas, CA Metro Area","Salinas, CA",6:39,0,72,147
+310M100US12460,12460,"Bainbridge, GA Micro Area","Bainbridge, GA",7:11,-20,37,91
+310M100US41140,41140,"St. Joseph, MO-KS Metro Area","St. Joseph, MO",6:51,-9,55,162
+310M100US43980,43980,"Spencer, IA Micro Area","Spencer, IA",6:52,-5,50,107
+310M100US32860,32860,"Menomonie, WI Micro Area","Menomonie, WI",6:39,-8,69,225
+310M100US21860,21860,"Fairmont, MN Micro Area","Fairmont, MN",6:49,-2,54,114
+310M100US12660,12660,"Baraboo, WI Micro Area","Baraboo, WI",6:30,9,78,168
+310M100US47920,47920,"Washington Court House, OH Micro Area","Washington Court House, OH",7:06,-37,42,154
+310M100US49260,49260,"Woodward, OK Micro Area","Woodward, OK",7:10,-30,33,82
+310M100US45000,45000,"Susanville, CA Micro Area","Susanville, CA",6:34,-17,74,149
+310M100US16020,16020,"Cape Girardeau-Jackson, MO-IL Metro Area","Cape Girardeau, MO",6:30,15,79,161
+310M100US19620,19620,"Del Rio, TX Micro Area","Del Rio, TX",7:16,-22,29,95
+310M100US32300,32300,"Martinsville, VA Micro Area","Martinsville, VA",6:52,-5,58,134
+310M100US38740,38740,"Poplar Bluff, MO Micro Area","Poplar Bluff, MO",6:34,13,73,128
+310M100US48940,48940,"Wilmington, OH Micro Area","Wilmington, OH",7:07,-26,43,162
+310M100US27300,27300,"Jacksonville, IL Micro Area","Jacksonville, IL",6:33,18,72,141
+310M100US43340,43340,"Shreveport-Bossier City, LA Metro Area","Shreveport, LA",6:48,2,62,139
+310M100US34100,34100,"Morristown, TN Metro Area","Morristown, TN",7:06,-19,47,136
+310M100US19860,19860,"Dickinson, ND Micro Area","Dickinson, ND",6:22,16,81,129
+310M100US32500,32500,"Maysville, KY Micro Area","Maysville, KY",7:07,-22,43,127
+310M100US37900,37900,"Peoria, IL Metro Area","Peoria, IL",6:30,18,80,149
+310M100US46060,46060,"Tucson, AZ Metro Area","Tucson, AZ",6:17,28,96,179
+310M100US14620,14620,"Bradford, PA Micro Area","Bradford, PA",6:46,-5,62,142
+310M100US48740,48740,"Willimantic, CT Micro Area","Willimantic, CT",6:20,26,93,175
+310M100US11300,11300,"Anderson, IN Metro Area","Anderson, IN",7:14,-28,39,132
+310M100US10940,10940,"Alma, MI Micro Area","Alma, MI",7:10,-30,39,172
+310M100US41180,41180,"St. Louis, MO-IL Metro Area","St. Louis, MO",6:33,16,81,159
+310M100US40780,40780,"Russellville, AR Micro Area","Russellville, AR",6:45,-5,63,147
+310M100US19780,19780,"Des Moines-West Des Moines, IA Metro Area","Des Moines, IA",6:46,13,64,124
+310M100US47340,47340,"Wabash, IN Micro Area","Wabash, IN",7:15,-37,32,112
+310M100US27860,27860,"Jonesboro, AR Metro Area","Jonesboro, AR",6:35,17,72,137
+310M100US12900,12900,"Batesville, AR Micro Area","Batesville, AR",6:39,4,70,139
+310M100US41060,41060,"St. Cloud, MN Metro Area","St. Cloud, MN",6:48,-1,61,158
+310M100US17380,17380,"Cleveland, MS Micro Area","Cleveland, MS",6:35,17,70,135
+310M100US12220,12220,"Auburn-Opelika, AL Metro Area","Auburn, AL",6:14,38,96,171
+310M100US41580,41580,"Salisbury, NC Micro Area","Salisbury, NC",6:54,-9,58,133
+310M100US34340,34340,"Mount Airy, NC Micro Area","Mount Airy, NC",6:55,-5,57,112
+310M100US35380,35380,"New Orleans-Metairie-Kenner, LA Metro Area","New Orleans, LA",6:33,13,80,150
+310M100US31660,31660,"Malone, NY Micro Area","Malone, NY",6:28,20,79,153
+310M100US32380,32380,"Mason City, IA Micro Area","Mason City, IA",6:44,-2,61,134
+310M100US16220,16220,"Casper, WY Metro Area","Casper, WY",6:37,14,70,122
+310M100US17740,17740,"Coldwater, MI Micro Area","Coldwater, MI",7:11,-37,41,140
+310M100US49780,49780,"Zanesville, OH Micro Area","Zanesville, OH",7:00,-26,50,143
+310M100US34580,34580,"Mount Vernon-Anacortes, WA Metro Area","Mount Vernon, WA",6:40,-1,73,152
+310M100US32740,32740,"Meadville, PA Micro Area","Meadville, PA",6:52,-8,58,139
+310M100US23700,23700,"Gallup, NM Micro Area","Gallup, NM",6:47,18,63,96
+310M100US13100,13100,"Beatrice, NE Micro Area","Beatrice, NE",6:59,-20,49,103
+310M100US40420,40420,"Rockford, IL Metro Area","Rockford, IL",6:27,15,86,179
+310M100US31020,31020,"Longview, WA Metro Area","Longview, WA",6:43,-11,67,150
+310M100US33980,33980,"Morehead City, NC Micro Area","Morehead City, NC",6:40,12,71,142
+310M100US27020,27020,"Iron Mountain, MI-WI Micro Area","Iron Mountain, MI",6:23,19,82,172
+310M100US17580,17580,"Clovis, NM Micro Area","Clovis, NM",6:25,21,81,165
+310M100US37620,37620,"Parkersburg-Marietta-Vienna, WV-OH Metro Area","Parkersburg, WV",6:58,-12,52,125
+310M100US31740,31740,"Manhattan, KS Metro Area","Manhattan, KS",6:58,-10,51,121
+310M100US36340,36340,"Oil City, PA Micro Area","Oil City, PA",6:50,-9,61,161
+310M100US47180,47180,"Vincennes, IN Micro Area","Vincennes, IN",7:22,-35,26,114
+310M100US29580,29580,"Lancaster, SC Micro Area","Lancaster, SC",6:56,-7,60,135
+310M100US18820,18820,"Crawfordsville, IN Micro Area","Crawfordsville, IN",7:19,-35,30,136
+310M100US31260,31260,"Lufkin, TX Micro Area","Lufkin, TX",6:52,2,56,132
+310M100US36460,36460,"Olean, NY Micro Area","Olean, NY",6:45,-4,64,146
+310M100US10660,10660,"Albert Lea, MN Micro Area","Albert Lea, MN",6:45,-4,61,151
+310M100US25460,25460,"Harrison, AR Micro Area","Harrison, AR",6:45,9,65,129
+310M100US22500,22500,"Florence, SC Metro Area","Florence, SC",6:52,2,59,121
+310M100US27180,27180,"Jackson, TN Metro Area","Jackson, TN",6:28,23,82,165
+310M100US10140,10140,"Aberdeen, WA Micro Area","Aberdeen, WA",6:46,-13,65,153
+310M100US21340,21340,"El Paso, TX Metro Area","El Paso, TX",6:38,15,76,154
+310M100US20460,20460,"Durant, OK Micro Area","Durant, OK",6:58,-15,51,113
+310M100US19140,19140,"Dalton, GA Metro Area","Dalton, GA",7:12,-12,39,141
+310M100US16300,16300,"Cedar Rapids, IA Metro Area","Cedar Rapids, IA",6:38,16,72,147
+310M100US37100,37100,"Oxnard-Thousand Oaks-Ventura, CA Metro Area","Oxnard, CA",6:29,14,84,153
+310M100US49060,49060,"Winfield, KS Micro Area","Winfield, KS",7:00,-13,47,166
+310M100US43100,43100,"Sheboygan, WI Metro Area","Sheboygan, WI",6:22,13,87,242
+310M100US19700,19700,"Deming, NM Micro Area","Deming, NM",6:44,-13,63,111
+310M100US24380,24380,"Grants, NM Micro Area","Grants, NM",6:44,0,65,117
+310M100US45580,45580,"Thomaston, GA Micro Area","Thomaston, GA",7:10,-22,40,150
+310M100US15740,15740,"Cambridge, OH Micro Area","Cambridge, OH",6:58,-19,54,158
+310M100US33180,33180,"Middlesborough, KY Micro Area","Middlesborough, KY",7:07,-22,43,111
+310M100US41740,41740,"San Diego-Carlsbad-San Marcos, CA Metro Area","San Diego, CA",6:21,28,94,173
+310M100US26220,26220,"Hood River, OR Micro Area","Hood River, OR",6:37,19,69,129
+310M100US31700,31700,"Manchester-Nashua, NH Metro Area","Manchester, NH",6:17,35,99,163
+310M100US13300,13300,"Beeville, TX Micro Area","Beeville, TX",7:04,-26,43,140
+310M100US33780,33780,"Monroe, MI Metro Area","Monroe, MI",7:05,-25,50,150
+310M100US29300,29300,"LaGrange, GA Micro Area","LaGrange, GA",7:13,-21,38,125
+310M100US42420,42420,"Scottsbluff, NE Micro Area","Scottsbluff, NE",6:26,22,80,130
+310M100US40580,40580,"Rocky Mount, NC Metro Area","Rocky Mount, NC",6:44,7,68,147
+310M100US36900,36900,"Ottumwa, IA Micro Area","Ottumwa, IA",6:41,-13,66,199
+310M100US42340,42340,"Savannah, GA Metro Area","Savannah, GA",6:57,-1,58,130
+310M100US36700,36700,"Orangeburg, SC Micro Area","Orangeburg, SC",6:56,-17,56,139
+310M100US47820,47820,"Washington, NC Micro Area","Washington, NC",6:40,13,72,124
+310M100US13940,13940,"Blackfoot, ID Micro Area","Blackfoot, ID",7:01,-17,49,103
+310M100US38860,38860,"Portland-South Portland-Biddeford, ME Metro Area","Portland, ME",6:13,38,102,169
+310M100US35740,35740,"Norfolk, NE Micro Area","Norfolk, NE",7:01,-27,45,102
+310M100US19900,19900,"Dillon, SC Micro Area","Dillon, SC",6:50,0,61,164
+310M100US45820,45820,"Topeka, KS Metro Area","Topeka, KS",6:55,0,56,114
+310M100US30260,30260,"Lewisburg, PA Micro Area","Lewisburg, PA",6:39,6,72,150
+310M100US17340,17340,"Clearlake, CA Micro Area","Clearlake, CA",6:42,2,72,143
+310M100US38020,38020,"Phoenix Lake-Cedar Ridge, CA Micro Area","Phoenix Lake, CA",6:33,17,78,146
+310M100US26660,26660,"Huntsville, TX Micro Area","Huntsville, TX",6:55,1,59,196
+310M100US16460,16460,"Centralia, IL Micro Area","Centralia, IL",6:28,8,83,206
+310M100US24300,24300,"Grand Junction, CO Metro Area","Grand Junction, CO",6:46,5,64,131
+310M100US34780,34780,"Muskogee, OK Micro Area","Muskogee, OK",6:54,-8,56,116
+310M100US28700,28700,"Kingsport-Bristol-Bristol, TN-VA Metro Area","Kingsport, TN",7:02,-13,50,126
+310M100US35020,35020,"Natchez, MS-LA Micro Area","Natchez, MS",6:38,10,71,124
+310M100US18020,18020,"Columbus, IN Metro Area","Columbus, IN",7:16,-26,34,111
+310M100US48660,48660,"Wichita Falls, TX Metro Area","Wichita Falls, TX",7:07,-14,40,110
+310M100US48700,48700,"Williamsport, PA Metro Area","Williamsport, PA",6:40,2,70,154
+310M100US40740,40740,"Roswell, NM Micro Area","Roswell, NM",6:31,18,77,130
+310M100US19740,19740,"Denver-Aurora-Broomfield, CO Metro Area","Denver, CO",6:32,23,86,162
+310M100US42860,42860,"Seneca, SC Micro Area","Seneca, SC",7:04,-13,49,130
+310M100US20220,20220,"Dubuque, IA Metro Area","Dubuque, IA",6:34,15,76,158
+310M100US46340,46340,"Tyler, TX Metro Area","Tyler, TX",6:54,1,59,129
+310M100US46740,46740,"Valley, AL Micro Area","Valley, AL",6:13,28,102,178
+310M100US48620,48620,"Wichita, KS Metro Area","Wichita, KS",7:01,-9,51,127
+310M100US36540,36540,"Omaha-Council Bluffs, NE-IA Metro Area","Omaha, NE",6:56,1,57,128
+310M100US30660,30660,"Lincoln, IL Micro Area","Lincoln, IL",6:29,22,81,157
+310M100US23380,23380,"Fremont, OH Micro Area","Fremont, OH",7:04,-26,46,200
+310M100US27100,27100,"Jackson, MI Metro Area","Jackson, MI",7:09,-23,44,148
+310M100US31500,31500,"Madison, IN Micro Area","Madison, IN",7:13,-36,39,194
+310M100US19100,19100,"Dallas-Fort Worth-Arlington, TX Metro Area","Dallas, TX",7:00,-5,58,131
+310M100US25420,25420,"Harrisburg-Carlisle, PA Metro Area","Harrisburg, PA",6:39,14,74,147
+310M100US32820,32820,"Memphis, TN-MS-AR Metro Area","Memphis, TN",6:32,24,85,172
+310M100US30420,30420,"Lexington, NE Micro Area","Lexington, NE",7:11,-33,35,113
+310M100US37340,37340,"Palm Bay-Melbourne-Titusville, FL Metro Area","Palm Bay, FL",6:56,0,60,131
+310M100US49100,49100,"Winona, MN Micro Area","Winona, MN",6:38,6,69,174
+310M100US22260,22260,"Fergus Falls, MN Micro Area","Fergus Falls, MN",6:55,-8,55,116
+310M100US44420,44420,"Staunton-Waynesboro, VA Micro Area","Staunton, VA",6:48,0,67,133
+310M100US43140,43140,"Shelby, NC Micro Area","Shelby, NC",6:58,-5,57,123
+310M100US39380,39380,"Pueblo, CO Metro Area","Pueblo, CO",6:31,14,80,173
+310M100US24740,24740,"Greenville, MS Micro Area","Greenville, MS",6:37,18,73,148
+310M100US28900,28900,"Klamath Falls, OR Micro Area","Klamath Falls, OR",6:38,7,72,150
+310M100US36260,36260,"Ogden-Clearfield, UT Metro Area","Ogden, UT",7:00,-17,55,138
+310M100US46140,46140,"Tulsa, OK Metro Area","Tulsa, OK",6:56,-2,59,127
+310M100US22580,22580,"Forest City, NC Micro Area","Forest City, NC",7:00,-11,53,131
+310M100US13860,13860,"Bishop, CA Micro Area","Bishop, CA",6:26,25,79,147
+310M100US23180,23180,"Frankfort, KY Micro Area","Frankfort, KY",7:11,-10,42,105
+310M100US39500,39500,"Quincy, IL-MO Micro Area","Quincy, IL",6:37,17,74,144
+310M100US19580,19580,"Defiance, OH Micro Area","Defiance, OH",7:09,-30,43,195
+310M100US17260,17260,"Clarksdale, MS Micro Area","Clarksdale, MS",6:35,23,74,165
+310M100US44500,44500,"Stephenville, TX Micro Area","Stephenville, TX",7:06,-6,42,118
+310M100US15820,15820,"Campbellsville, KY Micro Area","Campbellsville, KY",7:13,-31,36,103
+310M100US43300,43300,"Sherman-Denison, TX Metro Area","Sherman, TX",6:59,-15,55,142
+310M100US26860,26860,"Indiana, PA Micro Area","Indiana, PA",6:48,-7,66,158
+310M100US16620,16620,"Charleston, WV Metro Area","Charleston, WV",6:59,-5,57,124
+310M100US28140,28140,"Kansas City, MO-KS Metro Area","Kansas City, MO",6:50,6,67,136
+310M100US13020,13020,"Bay City, MI Metro Area","Bay City, MI",7:07,-16,47,138
+310M100US33300,33300,"Milledgeville, GA Micro Area","Milledgeville, GA",7:06,-11,46,166
+310M100US14540,14540,"Bowling Green, KY Metro Area","Bowling Green, KY",6:18,34,95,212
+310M100US33500,33500,"Minot, ND Micro Area","Minot, ND",7:16,-23,33,90
+310M100US26900,26900,"Indianapolis-Carmel, IN Metro Area","Indianapolis, IN",7:16,-16,42,118
+310M100US16980,16980,"Chicago-Joliet-Naperville, IL-IN-WI Metro Area","Chicago, IL",6:23,27,101,182
+310M100US11740,11740,"Ashland, OH Micro Area","Ashland, OH",7:01,-16,53,142
+310M100US16500,16500,"Centralia, WA Micro Area","Centralia, WA",6:43,-11,73,160
+310M100US32260,32260,"Marshalltown, IA Micro Area","Marshalltown, IA",6:43,2,65,197
+310M100US19500,19500,"Decatur, IL Metro Area","Decatur, IL",6:28,21,83,176
+310M100US24020,24020,"Glens Falls, NY Metro Area","Glens Falls, NY",6:26,22,88,169
+310M100US26300,26300,"Hot Springs, AR Metro Area","Hot Springs, AR",6:45,13,68,142
+310M100US22700,22700,"Fort Dodge, IA Micro Area","Fort Dodge, IA",6:48,-5,60,154
+310M100US38620,38620,"Ponca City, OK Micro Area","Ponca City, OK",7:00,-15,48,113
+310M100US33340,33340,"Milwaukee-Waukesha-West Allis, WI Metro Area","Milwaukee, WI",6:24,30,93,181
+310M100US49380,49380,"Worthington, MN Micro Area","Worthington, MN",6:54,-21,54,169
+310M100US24420,24420,"Grants Pass, OR Micro Area","Grants Pass, OR",6:45,6,66,147
+310M100US30580,30580,"Liberal, KS Micro Area","Liberal, KS",7:16,-43,30,167
+310M100US48980,48980,"Wilson, NC Micro Area","Wilson, NC",6:44,9,68,138
+310M100US23060,23060,"Fort Wayne, IN Metro Area","Fort Wayne, IN",7:12,-19,44,130
+310M100US15340,15340,"Bucyrus, OH Micro Area","Bucyrus, OH",7:04,-20,49,131
+310M100US40260,40260,"Roanoke Rapids, NC Micro Area","Roanoke Rapids, NC",6:43,4,71,150
+310M100US40860,40860,"Rutland, VT Micro Area","Rutland, VT",6:23,26,89,156
+310M100US25580,25580,"Hastings, NE Micro Area","Hastings, NE",7:05,-17,43,97
+310M100US43500,43500,"Silver City, NM Micro Area","Silver City, NM",6:46,0,65,136
+310M100US32140,32140,"Marshall, MN Micro Area","Marshall, MN",6:54,3,53,104
+310M100US20740,20740,"Eau Claire, WI Metro Area","Eau Claire, WI",6:37,10,75,199
+310M100US10740,10740,"Albuquerque, NM Metro Area","Albuquerque, NM",6:39,17,78,153
+310M100US39820,39820,"Redding, CA Metro Area","Redding, CA",6:41,13,71,148
+310M100US29100,29100,"La Crosse, WI-MN Metro Area","La Crosse, WI",6:36,16,76,186
+310M100US39980,39980,"Richmond, IN Micro Area","Richmond, IN",7:11,-24,42,165
+310M100US42580,42580,"Seaford, DE Micro Area","Seaford, DE",6:34,21,84,160
+310M100US28500,28500,"Kerrville, TX Micro Area","Kerrville, TX",7:09,-7,43,104
+310M100US44600,44600,"Steubenville-Weirton, OH-WV Metro Area","Steubenville, OH",6:54,-20,63,172
+310M100US38460,38460,"Plattsburgh, NY Micro Area","Plattsburgh, NY",6:25,25,88,185
+310M100US45020,45020,"Sweetwater, TX Micro Area","Sweetwater, TX",7:14,-25,35,102
+310M100US12580,12580,"Baltimore-Towson, MD Metro Area","Baltimore, MD",6:38,16,85,154
+310M100US37580,37580,"Paris, TX Micro Area","Paris, TX",6:55,-7,57,137
+310M100US37420,37420,"Pampa, TX Micro Area","Pampa, TX",7:16,-37,32,96
+310M100US18380,18380,"Cordele, GA Micro Area","Cordele, GA",7:08,-8,44,97
+310M100US47380,47380,"Waco, TX Metro Area","Waco, TX",7:01,-4,53,133
+310M100US45860,45860,"Torrington, CT Micro Area","Torrington, CT",6:24,30,95,156
+310M100US21300,21300,"Elmira, NY Metro Area","Elmira, NY",6:39,19,74,151
+310M100US40700,40700,"Roseburg, OR Micro Area","Roseburg, OR",6:45,-7,68,173
+310M100US11940,11940,"Athens, TN Micro Area","Athens, TN",7:11,-36,44,120
+310M100US36220,36220,"Odessa, TX Metro Area","Odessa, TX",7:22,-29,31,81
+310M100US44540,44540,"Sterling, CO Micro Area","Sterling, CO",6:25,15,84,188
+310M100US27260,27260,"Jacksonville, FL Metro Area","Jacksonville, FL",6:59,-2,60,133
+310M100US28780,28780,"Kingsville, TX Micro Area","Kingsville, TX",7:04,-9,45,96
+310M100US30220,30220,"Levelland, TX Micro Area","Levelland, TX",7:22,-27,30,92
+310M100US44060,44060,"Spokane, WA Metro Area","Spokane, WA",6:20,31,95,185
+310M100US21740,21740,"Evanston, WY Micro Area","Evanston, WY",6:55,-17,53,157
+310M100US21820,21820,"Fairbanks, AK Metro Area","Fairbanks, AK",7:12,-29,42,118
+310M100US47980,47980,"Watertown, SD Micro Area","Watertown, SD",7:00,-13,49,99
+310M100US15980,15980,"Cape Coral-Fort Myers, FL Metro Area","Cape Coral, FL",7:01,-8,59,133
+310M100US29780,29780,"Las Vegas, NM Micro Area","Las Vegas, NM",6:33,29,80,123
+310M100US17980,17980,"Columbus, GA-AL Metro Area","Columbus, GA",7:13,-26,42,119
+310M100US43900,43900,"Spartanburg, SC Metro Area","Spartanburg, SC",7:00,-1,57,137
+310M100US32700,32700,"McPherson, KS Micro Area","McPherson, KS",7:03,-14,45,105
+310M100US42660,42660,"Seattle-Tacoma-Bellevue, WA Metro Area","Seattle, WA",6:40,7,80,164
+310M100US25940,25940,"Hilton Head Island-Beaufort, SC Micro Area","Hilton Head Island, SC",6:56,-4,59,128
+310M100US48820,48820,"Willmar, MN Micro Area","Willmar, MN",6:51,2,59,137
+310M100US24460,24460,"Great Bend, KS Micro Area","Great Bend, KS",7:07,-12,41,83
+310M100US10980,10980,"Alpena, MI Micro Area","Alpena, MI",7:05,-16,45,125
+310M100US33060,33060,"Miami, OK Micro Area","Miami, OK",6:52,-1,62,143
+310M100US10900,10900,"Allentown-Bethlehem-Easton, PA-NJ Metro Area","Allentown, PA",6:33,17,85,165
+310M100US30300,30300,"Lewiston, ID-WA Metro Area","Lewiston, ID",6:19,22,91,162
+310M100US33460,33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area","Minneapolis, MN",6:44,13,75,152
+310M100US15500,15500,"Burlington, NC Metro Area","Burlington, NC",6:50,9,65,146
+310M100US29500,29500,"Lamesa, TX Micro Area","Lamesa, TX",7:20,-37,25,72
+310M100US13420,13420,"Bemidji, MN Micro Area","Bemidji, MN",6:50,10,63,116
+310M100US14660,14660,"Brainerd, MN Micro Area","Brainerd, MN",6:48,7,67,133
+310M100US21900,21900,"Fairmont, WV Micro Area","Fairmont, WV",6:52,-2,67,167
+310M100US25100,25100,"Guymon, OK Micro Area","Guymon, OK",7:18,-46,31,141
+310M100US27900,27900,"Joplin, MO Metro Area","Joplin, MO",6:50,2,64,164
+310M100US31620,31620,"Magnolia, AR Micro Area","Magnolia, AR",6:45,2,66,109
+310M100US33220,33220,"Midland, MI Micro Area","Midland, MI",7:08,-8,47,109
+310M100US19220,19220,"Danville, KY Micro Area","Danville, KY",7:11,-15,45,152
+310M100US23820,23820,"Gardnerville Ranchos, NV Micro Area","Gardnerville Ranchos, NV",6:31,22,87,162
+310M100US24940,24940,"Greenwood, SC Micro Area","Greenwood, SC",7:01,-3,53,110
+310M100US20300,20300,"Dumas, TX Micro Area","Dumas, TX",7:20,-50,30,133
+310M100US11020,11020,"Altoona, PA Metro Area","Altoona, PA",6:45,3,69,176
+310M100US49340,49340,"Worcester, MA Metro Area","Worcester, MA",6:18,37,102,171
+310M100US25720,25720,"Heber, UT Micro Area","Heber, UT",6:57,-3,62,129
+310M100US23300,23300,"Freeport, IL Micro Area","Freeport, IL",6:30,18,83,222
+310M100US26100,26100,"Holland-Grand Haven, MI Metro Area","Holland, MI",7:16,-23,40,134
+310M100US39020,39020,"Portsmouth, OH Micro Area","Portsmouth, OH",7:04,-20,55,161
+310M100US46300,46300,"Twin Falls, ID Micro Area","Twin Falls, ID",7:09,-16,42,110
+310M100US15420,15420,"Burley, ID Micro Area","Burley, ID",7:07,-20,46,107
+310M100US12780,12780,"Bartlesville, OK Micro Area","Bartlesville, OK",6:56,1,55,119
+310M100US24260,24260,"Grand Island, NE Micro Area","Grand Island, NE",7:05,-23,46,122
+310M100US45460,45460,"Terre Haute, IN Metro Area","Terre Haute, IN",7:21,-33,34,150
+310M100US38300,38300,"Pittsburgh, PA Metro Area","Pittsburgh, PA",6:52,0,68,148
+310M100US19340,19340,"Davenport-Moline-Rock Island, IA-IL Metro Area","Davenport, IA",6:34,12,81,172
+310M100US27780,27780,"Johnstown, PA Metro Area","Johnstown, PA",6:47,-2,69,164
+310M100US29260,29260,"La Grande, OR Micro Area","La Grande, OR",6:23,22,86,154
+310M100US10820,10820,"Alexandria, MN Micro Area","Alexandria, MN",6:52,4,59,126
+310M100US18100,18100,"Columbus, NE Micro Area","Columbus, NE",7:01,-16,49,179
+310M100US17420,17420,"Cleveland, TN Metro Area","Cleveland, TN",7:12,-19,44,155
+310M100US31900,31900,"Mansfield, OH Metro Area","Mansfield, OH",7:02,-14,53,175
+310M100US15620,15620,"Cadillac, MI Micro Area","Cadillac, MI",7:13,-29,42,152
+310M100US10500,10500,"Albany, GA Metro Area","Albany, GA",7:09,-10,46,116
+310M100US18580,18580,"Corpus Christi, TX Metro Area","Corpus Christi, TX",7:03,-9,52,123
+310M100US28300,28300,"Keene, NH Micro Area","Keene, NH",6:21,29,94,174
+310M100US26140,26140,"Homosassa Springs, FL Micro Area","Homosassa Springs, FL",7:03,-10,56,131
+310M100US23500,23500,"Gaffney, SC Micro Area","Gaffney, SC",6:59,-20,58,202
+310M100US43620,43620,"Sioux Falls, SD Metro Area","Sioux Falls, SD",6:58,5,57,113
+310M100US16180,16180,"Carson City, NV Metro Area","Carson City, NV",6:31,18,81,155
+310M100US36420,36420,"Oklahoma City, OK Metro Area","Oklahoma City, OK",7:02,-3,57,130
+310M100US17900,17900,"Columbia, SC Metro Area","Columbia, SC",6:57,6,63,126
+310M100US29420,29420,"Lake Havasu City-Kingman, AZ Metro Area","Lake Havasu City, AZ",6:31,9,84,195
+310M100US23780,23780,"Garden City, KS Micro Area","Garden City, KS",7:15,-31,36,114
+310M100US15940,15940,"Canton-Massillon, OH Metro Area","Canton, OH",6:57,-5,60,171
+310M100US16860,16860,"Chattanooga, TN-GA Metro Area","Chattanooga, TN",7:13,-15,47,125
+310M100US21420,21420,"Enid, OK Micro Area","Enid, OK",7:04,-13,48,115
+310M100US18660,18660,"Cortland, NY Micro Area","Cortland, NY",6:36,14,80,148
+310M100US38900,38900,"Portland-Vancouver-Hillsboro, OR-WA Metro Area","Portland, OR",6:42,11,79,158
+310M100US44100,44100,"Springfield, IL Metro Area","Springfield, IL",6:30,35,86,133
+310M100US23660,23660,"Galesburg, IL Micro Area","Galesburg, IL",6:33,12,79,174
+310M100US16740,16740,"Charlotte-Gastonia-Rock Hill, NC-SC Metro Area","Charlotte, NC",6:56,6,65,136
+310M100US48780,48780,"Williston, ND Micro Area","Williston, ND",7:25,-40,25,68
+310M100US35260,35260,"New Castle, PA Micro Area","New Castle, PA",6:53,-4,63,149
+310M100US11620,11620,"Ardmore, OK Micro Area","Ardmore, OK",7:01,-17,54,118
+310M100US19980,19980,"Dodge City, KS Micro Area","Dodge City, KS",7:12,-42,39,210
+310M100US40100,40100,"Rio Grande City-Roma, TX Micro Area","Rio Grande City, TX",7:09,-10,45,94
+310M100US44220,44220,"Springfield, OH Metro Area","Springfield, OH",7:07,-20,50,166
+310M100US43580,43580,"Sioux City, IA-NE-SD Metro Area","Sioux City, IA",6:57,-6,57,178
+310M100US33260,33260,"Midland, TX Metro Area","Midland, TX",7:21,-18,34,85
+310M100US13900,13900,"Bismarck, ND Metro Area","Bismarck, ND",7:14,-11,40,92
+310M100US20260,20260,"Duluth, MN-WI Metro Area","Duluth, MN",6:39,13,76,169
+310M100US15220,15220,"Brownwood, TX Micro Area","Brownwood, TX",7:09,-15,43,88
+310M100US46620,46620,"Uvalde, TX Micro Area","Uvalde, TX",7:12,-13,39,85
+310M100US18340,18340,"Corbin, KY Micro Area","Corbin, KY",7:09,-19,47,137
+310M100US39100,39100,"Poughkeepsie-Newburgh-Middletown, NY Metro Area","Poughkeepsie, NY",6:28,23,94,170
+310M100US43780,43780,"South Bend-Mishawaka, IN-MI Metro Area","South Bend, IN",7:16,-23,41,132
+310M100US41660,41660,"San Angelo, TX Metro Area","San Angelo, TX",7:15,-18,38,109
+310M100US12060,12060,"Atlanta-Sandy Springs-Marietta, GA Metro Area","Atlanta, GA",7:10,-11,57,133
+310M100US24500,24500,"Great Falls, MT Metro Area","Great Falls, MT",6:56,8,57,118
+310M100US40460,40460,"Rockingham, NC Micro Area","Rockingham, NC",6:51,0,65,132
+310M100US18300,18300,"Coos Bay, OR Micro Area","Coos Bay, OR",6:48,-2,67,161
+310M100US14140,14140,"Bluefield, WV-VA Micro Area","Bluefield, WV",6:57,-3,60,135
+310M100US32020,32020,"Marion, OH Micro Area","Marion, OH",7:04,-22,53,195
+310M100US32060,32060,"Marion-Herrin, IL Micro Area","Marion, IL",6:28,31,89,152
+310M100US11060,11060,"Altus, OK Micro Area","Altus, OK",7:10,-12,41,114
+310M100US44180,44180,"Springfield, MO Metro Area","Springfield, MO",6:45,16,73,155
+310M100US45140,45140,"Tahlequah, OK Micro Area","Tahlequah, OK",6:52,9,65,134
+310M100US40660,40660,"Rome, GA Metro Area","Rome, GA",7:13,-14,44,142
+310M100US31340,31340,"Lynchburg, VA Metro Area","Lynchburg, VA",6:49,7,69,155
+310M100US41460,41460,"Salina, KS Micro Area","Salina, KS",7:02,-14,50,135
+310M100US40180,40180,"Riverton, WY Micro Area","Riverton, WY",6:45,14,67,115
+310M100US17140,17140,"Cincinnati-Middletown, OH-KY-IN Metro Area","Cincinnati, OH",7:10,-12,52,132
+310M100US26740,26740,"Hutchinson, KS Micro Area","Hutchinson, KS",7:04,-6,49,131
+310M100US26700,26700,"Huron, SD Micro Area","Huron, SD",7:04,0,46,116
+310M100US14820,14820,"Brevard, NC Micro Area","Brevard, NC",7:03,7,57,137
+310M100US13700,13700,"Big Spring, TX Micro Area","Big Spring, TX",7:19,-25,33,103
+310M100US13500,13500,"Bennettsville, SC Micro Area","Bennettsville, SC",6:51,2,67,177
+310M100US39140,39140,"Prescott, AZ Metro Area","Prescott, AZ",6:23,25,95,188
+310M100US40220,40220,"Roanoke, VA Metro Area","Roanoke, VA",6:52,8,68,140
+310M100US38180,38180,"Pierre, SD Micro Area","Pierre, SD",7:12,-2,38,62
+310M100US23240,23240,"Fredericksburg, TX Micro Area","Fredericksburg, TX",7:08,-4,47,114
+310M100US27420,27420,"Jamestown, ND Micro Area","Jamestown, ND",7:05,-13,46,96
+310M100US36300,36300,"Ogdensburg-Massena, NY Micro Area","Ogdensburg, NY",6:33,16,83,207
+310M100US12980,12980,"Battle Creek, MI Metro Area","Battle Creek, MI",7:12,-24,45,159
+310M100US18220,18220,"Connersville, IN Micro Area","Connersville, IN",7:12,-42,45,203
+310M100US44020,44020,"Spirit Lake, IA Micro Area","Spirit Lake, IA",6:52,8,61,111
+310M100US40900,40900,"Sacramento--Arden-Arcade--Roseville, CA Metro Area","Sacramento, CA",6:37,18,85,166
+310M100US49180,49180,"Winston-Salem, NC Metro Area","Winston, NC",6:53,9,67,143
+310M100US26460,26460,"Hudson, NY Micro Area","Hudson, NY",6:27,32,94,155
+310M100US28940,28940,"Knoxville, TN Metro Area","Knoxville, TN",7:08,-3,52,122
+310M100US21120,21120,"Elk City, OK Micro Area","Elk City, OK",7:10,-23,41,102
+310M100US39900,39900,"Reno-Sparks, NV Metro Area","Reno, NV",6:31,20,87,181
+310M100US41540,41540,"Salisbury, MD Metro Area","Salisbury, MD",6:34,26,84,159
+310M100US31540,31540,"Madison, WI Metro Area","Madison, WI",6:29,33,92,164
+310M100US43940,43940,"Spearfish, SD Micro Area","Spearfish, SD",6:27,20,86,162
+310M100US47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area","Washington, DC",6:41,15,91,157
+310M100US10300,10300,"Adrian, MI Micro Area","Adrian, MI",7:08,-22,54,182
+310M100US34860,34860,"Nacogdoches, TX Micro Area","Nacogdoches, TX",6:51,4,65,183
+310M100US11340,11340,"Anderson, SC Metro Area","Anderson, SC",7:03,-4,58,132
+310M100US34260,34260,"Mountain Home, AR Micro Area","Mountain Home, AR",6:42,13,72,167
+310M100US40080,40080,"Richmond-Berea, KY Micro Area","Richmond, KY",7:09,-14,50,176
+310M100US37780,37780,"Pecos, TX Micro Area","Pecos, TX",7:27,-26,26,72
+310M100US47460,47460,"Walla Walla, WA Micro Area","Walla Walla, WA",6:24,30,89,177
+310M100US22300,22300,"Findlay, OH Micro Area","Findlay, OH",7:06,-19,48,175
+310M100US30620,30620,"Lima, OH Metro Area","Lima, OH",7:08,-18,49,208
+310M100US13220,13220,"Beckley, WV Micro Area","Beckley, WV",6:57,-5,62,135
+310M100US26820,26820,"Idaho Falls, ID Metro Area","Idaho Falls, ID",6:59,-7,58,120
+310M100US24780,24780,"Greenville, NC Metro Area","Greenville, NC",6:42,22,76,166
+310M100US25500,25500,"Harrisonburg, VA Metro Area","Harrisonburg, VA",6:48,5,70,154
+310M100US13740,13740,"Billings, MT Metro Area","Billings, MT",6:45,18,72,134
+310M100US35980,35980,"Norwich-New London, CT Metro Area","Norwich, CT",6:20,31,101,197
+310M100US14260,14260,"Boise City-Nampa, ID Metro Area","Boise City, ID",7:16,-14,43,119
+310M100US38260,38260,"Pittsburg, KS Micro Area","Pittsburg, KS",6:51,6,62,130
+310M100US47940,47940,"Waterloo-Cedar Falls, IA Metro Area","Waterloo, IA",6:41,8,75,197
+310M100US29020,29020,"Kokomo, IN Metro Area","Kokomo, IN",7:16,-27,41,170
+310M100US15180,15180,"Brownsville-Harlingen, TX Metro Area","Brownsville, TX",7:03,11,55,120
+310M100US19260,19260,"Danville, VA Metro Area","Danville, VA",6:50,1,71,177
+310M100US44740,44740,"Storm Lake, IA Micro Area","Storm Lake, IA",6:52,-11,59,220
+310M100US31140,31140,"Louisville/Jefferson County, KY-IN Metro Area","Louisville/Jefferson County, KY",7:15,-16,47,138
+310M100US34900,34900,"Napa, CA Metro Area","Napa, CA",6:41,7,77,145
+310M100US20420,20420,"Durango, CO Micro Area","Durango, CO",6:44,21,75,131
+310M100US14060,14060,"Bloomington-Normal, IL Metro Area","Bloomington, IL",6:28,34,89,155
+310M100US35460,35460,"Newport, TN Micro Area","Newport, TN",7:05,-11,59,194
+310M100US23860,23860,"Georgetown, SC Micro Area","Georgetown, SC",6:50,8,70,148
+310M100US46540,46540,"Utica-Rome, NY Metro Area","Utica, NY",6:32,23,87,160
+310M100US27740,27740,"Johnson City, TN Metro Area","Johnson City, TN",7:02,1,58,147
+310M100US35700,35700,"Nogales, AZ Micro Area","Nogales, AZ",6:17,29,101,172
+310M100US15540,15540,"Burlington-South Burlington, VT Metro Area","Burlington, VT",6:24,41,98,169
+310M100US24340,24340,"Grand Rapids-Wyoming, MI Metro Area","Grand Rapids, MI",7:14,-18,48,143
+310M100US38380,38380,"Plainview, TX Micro Area","Plainview, TX",7:19,-28,35,100
+310M100US25740,25740,"Helena, MT Micro Area","Helena, MT",6:59,14,58,107
+310M100US46660,46660,"Valdosta, GA Metro Area","Valdosta, GA",7:06,-7,52,162
+310M100US31060,31060,"Los Alamos, NM Micro Area","Los Alamos, NM",6:37,37,80,119
+310M100US22020,22020,"Fargo, ND-MN Metro Area","Fargo, ND",6:58,9,59,133
+310M100US40760,40760,"Ruidoso, NM Micro Area","Ruidoso, NM",6:35,35,80,147
+310M100US40380,40380,"Rochester, NY Metro Area","Rochester, NY",6:42,20,78,151
+310M100US24660,24660,"Greensboro-High Point, NC Metro Area","Greensboro, NC",6:52,13,68,139
+310M100US38940,38940,"Port St. Lucie, FL Metro Area","Port St. Lucie, FL",6:54,6,70,149
+310M100US29740,29740,"Las Cruces, NM Metro Area","Las Cruces, NM",6:40,20,79,140
+310M100US38820,38820,"Port Angeles, WA Micro Area","Port Angeles, WA",6:44,11,74,147
+310M100US45660,45660,"Tiffin, OH Micro Area","Tiffin, OH",7:04,-14,56,235
+310M100US10100,10100,"Aberdeen, SD Micro Area","Aberdeen, SD",7:05,9,49,94
+310M100US43700,43700,"Somerset, KY Micro Area","Somerset, KY",7:11,-5,48,142
+310M100US44620,44620,"Stevens Point, WI Micro Area","Stevens Point, WI",6:29,25,90,216
+310M100US39300,39300,"Providence-New Bedford-Fall River, RI-MA Metro Area","Providence, RI",6:17,41,106,180
+310M100US26580,26580,"Huntington-Ashland, WV-KY-OH Metro Area","Huntington, WV",7:02,-3,59,153
+310M100US45060,45060,"Syracuse, NY Metro Area","Syracuse, NY",6:36,26,85,158
+310M100US19660,19660,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area","Deltona, FL",6:58,4,66,145
+310M100US48540,48540,"Wheeling, WV-OH Metro Area","Wheeling, WV",6:55,-6,66,162
+310M100US22420,22420,"Flint, MI Metro Area","Flint, MI",7:06,-12,57,166
+310M100US28260,28260,"Kearney, NE Micro Area","Kearney, NE",7:08,-11,47,121
+310M100US10420,10420,"Akron, OH Metro Area","Akron, OH",6:58,3,65,154
+310M100US36620,36620,"Ontario, OR-ID Micro Area","Ontario, OR",7:19,-21,39,117
+310M100US17460,17460,"Cleveland-Elyria-Mentor, OH Metro Area","Cleveland, OH",6:58,3,67,148
+310M100US37980,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area","Philadelphia, PA",6:33,30,93,161
+310M100US30700,30700,"Lincoln, NE Metro Area","Lincoln, NE",6:58,8,62,149
+310M100US40060,40060,"Richmond, VA Metro Area","Richmond, VA",6:42,22,83,149
+310M100US36580,36580,"Oneonta, NY Micro Area","Oneonta, NY",6:32,25,89,190
+310M100US30940,30940,"London, KY Micro Area","London, KY",7:08,-6,53,145
+310M100US20660,20660,"Easton, MD Micro Area","Easton, MD",6:36,18,85,146
+310M100US39460,39460,"Punta Gorda, FL Metro Area","Punta Gorda, FL",7:01,0,60,151
+310M100US28020,28020,"Kalamazoo-Portage, MI Metro Area","Kalamazoo, MI",7:14,-11,47,148
+310M100US11100,11100,"Amarillo, TX Metro Area","Amarillo, TX",7:20,-17,39,121
+310M100US21500,21500,"Erie, PA Metro Area","Erie, PA",6:52,7,68,175
+310M100US31980,31980,"Marion, IN Micro Area","Marion, IN",7:14,-29,44,186
+310M100US17860,17860,"Columbia, MO Metro Area","Columbia, MO",6:41,28,78,168
+310M100US13780,13780,"Binghamton, NY Metro Area","Binghamton, NY",6:35,25,85,166
+310M100US32580,32580,"McAllen-Edinburg-Mission, TX Metro Area","McAllen, TX",7:06,7,55,126
+310M100US31420,31420,"Macon, GA Metro Area","Macon, GA",7:07,-4,56,130
+310M100US12020,12020,"Athens-Clarke County, GA Metro Area","Athens, GA",7:06,10,55,142
+310M100US45700,45700,"Tifton, GA Micro Area","Tifton, GA",7:07,3,52,98
+310M100US38780,38780,"Portales, NM Micro Area","Portales, NM",6:26,33,90,203
+310M100US39580,39580,"Raleigh-Cary, NC Metro Area","Raleigh, NC",6:47,22,79,143
+310M100US21540,21540,"Escanaba, MI Micro Area","Escanaba, MI",7:19,-22,38,152
+310M100US10180,10180,"Abilene, TX Metro Area","Abilene, TX",7:12,-11,45,115
+310M100US19380,19380,"Dayton, OH Metro Area","Dayton, OH",7:08,-9,54,153
+310M100US33580,33580,"Mitchell, SD Micro Area","Mitchell, SD",7:03,-4,52,111
+310M100US11660,11660,"Arkadelphia, AR Micro Area","Arkadelphia, AR",6:45,15,72,217
+310M100US25540,25540,"Hartford-West Hartford-East Hartford, CT Metro Area","Hartford, CT",6:22,41,103,171
+310M100US27940,27940,"Juneau, AK Micro Area","Juneau, AK",6:25,48,92,136
+310M100US35660,35660,"Niles-Benton Harbor, MI Metro Area","Niles, MI",7:17,-16,44,136
+310M100US37060,37060,"Oxford, MS Micro Area","Oxford, MS",6:31,35,86,168
+310M100US44340,44340,"Statesboro, GA Micro Area","Statesboro, GA",7:00,-4,60,171
+310M100US12420,12420,"Austin-Round Rock-San Marcos, TX Metro Area","Austin, TX",7:04,4,62,139
+310M100US11260,11260,"Anchorage, AK Metro Area","Anchorage, AK",7:25,-29,36,119
+310M100US32780,32780,"Medford, OR Metro Area","Medford, OR",6:43,14,77,171
+310M100US19060,19060,"Cumberland, MD-WV Metro Area","Cumberland, MD",6:47,1,74,226
+310M100US49660,49660,"Youngstown-Warren-Boardman, OH-PA Metro Area","Youngstown, OH",6:54,-1,68,179
+310M100US41620,41620,"Salt Lake City, UT Metro Area","Salt Lake City, UT",6:59,-2,65,142
+310M100US32340,32340,"Maryville, MO Micro Area","Maryville, MO",6:51,0,64,283
+310M100US40620,40620,"Rolla, MO Micro Area","Rolla, MO",6:39,16,78,162
+310M100US27460,27460,"Jamestown-Dunkirk-Fredonia, NY Micro Area","Jamestown, NY",6:49,2,70,183
+310M100US24860,24860,"Greenville-Mauldin-Easley, SC Metro Area","Greenville, SC",7:02,8,62,138
+310M100US31100,31100,"Los Angeles-Long Beach-Santa Ana, CA Metro Area","Los Angeles, CA",6:25,31,103,187
+310M100US13540,13540,"Bennington, VT Micro Area","Bennington, VT",6:24,37,96,160
+310M100US10220,10220,"Ada, OK Micro Area","Ada, OK",6:59,12,59,116
+310M100US11700,11700,"Asheville, NC Metro Area","Asheville, NC",7:03,5,62,133
+310M100US34740,34740,"Muskegon-Norton Shores, MI Metro Area","Muskegon, MI",7:16,-27,46,179
+310M100US45300,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area","Tampa, FL",7:03,1,64,134
+310M100US24220,24220,"Grand Forks, ND-MN Metro Area","Grand Forks, ND",6:59,8,58,134
+310M100US49460,49460,"Yankton, SD Micro Area","Yankton, SD",7:01,-7,55,137
+310M100US40980,40980,"Saginaw-Saginaw Township North, MI Metro Area","Saginaw, MI",7:07,-10,56,163
+310M100US42300,42300,"Sault Ste. Marie, MI Micro Area","Sault Ste. Marie, MI",7:08,-8,50,166
+310M100US37380,37380,"Palm Coast, FL Metro Area","Palm Coast, FL",6:57,7,69,147
+310M100US34500,34500,"Mount Vernon, IL Micro Area","Mount Vernon, IL",6:28,24,94,222
+310M100US42540,42540,"Scranton--Wilkes-Barre, PA Metro Area","Scranton, PA",6:35,19,88,173
+310M100US48900,48900,"Wilmington, NC Metro Area","Wilmington, NC",6:44,23,79,164
+310M100US16660,16660,"Charleston-Mattoon, IL Micro Area","Charleston, IL",6:25,29,95,237
+310M100US22660,22660,"Fort Collins-Loveland, CO Metro Area","Fort Collins, CO",6:32,30,91,170
+310M100US17020,17020,"Chico, CA Metro Area","Chico, CA",6:39,16,81,187
+310M100US25660,25660,"Havre, MT Micro Area","Havre, MT",6:49,25,68,124
+310M100US42140,42140,"Santa Fe, NM Metro Area","Santa Fe, NM",6:36,40,87,151
+310M100US18140,18140,"Columbus, OH Metro Area","Columbus, OH",7:04,0,62,145
+310M100US17780,17780,"College Station-Bryan, TX Metro Area","College Station, TX",6:58,15,64,146
+310M100US34940,34940,"Naples-Marco Island, FL Metro Area","Naples, FL",7:00,0,66,136
+310M100US31860,31860,"Mankato-North Mankato, MN Metro Area","Mankato, MN",6:47,15,72,199
+310M100US42060,42060,"Santa Barbara-Santa Maria-Goleta, CA Metro Area","Santa Barbara, CA",6:31,24,91,175
+310M100US19820,19820,"Detroit-Warren-Livonia, MI Metro Area","Detroit, MI",7:04,-3,65,156
+310M100US39220,39220,"Price, UT Micro Area","Price, UT",6:55,-16,63,200
+310M100US41780,41780,"Sandusky, OH Metro Area","Sandusky, OH",7:02,-4,61,185
+310M100US21260,21260,"Ellensburg, WA Micro Area","Ellensburg, WA",6:33,18,87,179
+310M100US45900,45900,"Traverse City, MI Micro Area","Traverse City, MI",7:14,-5,51,133
+310M100US28980,28980,"Kodiak, AK Micro Area","Kodiak, AK",7:37,-31,18,106
+310M100US44140,44140,"Springfield, MA Metro Area","Springfield, MA",6:22,38,105,191
+310M100US34060,34060,"Morgantown, WV Metro Area","Morgantown, WV",6:52,4,75,184
+310M100US46020,46020,"Truckee-Grass Valley, CA Micro Area","Truckee, CA",6:33,30,92,162
+310M100US15100,15100,"Brookings, SD Micro Area","Brookings, SD",6:58,10,60,141
+310M100US29820,29820,"Las Vegas-Paradise, NV Metro Area","Las Vegas, NV",6:13,34,116,276
+310M100US42680,42680,"Sebastian-Vero Beach, FL Metro Area","Sebastian, FL",6:55,18,71,128
+310M100US42020,42020,"San Luis Obispo-Paso Robles, CA Metro Area","San Luis Obispo, CA",6:35,26,90,165
+310M100US30460,30460,"Lexington-Fayette, KY Metro Area","Lexington, KY",7:10,2,56,151
+310M100US10580,10580,"Albany-Schenectady-Troy, NY Metro Area","Albany, NY",6:27,42,101,166
+310M100US35300,35300,"New Haven-Milford, CT Metro Area","New Haven, CT",6:23,40,106,175
+310M100US13460,13460,"Bend, OR Metro Area","Bend, OR",6:36,30,87,159
+310M100US45780,45780,"Toledo, OH Metro Area","Toledo, OH",7:06,-4,60,174
+310M100US26980,26980,"Iowa City, IA Metro Area","Iowa City, IA",6:38,33,87,196
+310M100US13380,13380,"Bellingham, WA Metro Area","Bellingham, WA",6:40,19,85,177
+310M100US45220,45220,"Tallahassee, FL Metro Area","Tallahassee, FL",7:10,8,58,126
+310M100US35840,35840,"North Port-Bradenton-Sarasota, FL Metro Area","North Port, FL",7:02,12,66,138
+310M100US15380,15380,"Buffalo-Niagara Falls, NY Metro Area","Buffalo, NY",6:47,20,82,165
+310M100US32100,32100,"Marquette, MI Micro Area","Marquette, MI",7:20,-25,44,160
+310M100US42220,42220,"Santa Rosa-Petaluma, CA Metro Area","Santa Rosa, CA",6:43,15,86,161
+310M100US38340,38340,"Pittsfield, MA Metro Area","Pittsfield, MA",6:24,39,101,189
+310M100US14700,14700,"Branson, MO Micro Area","Branson, MO",6:45,25,84,195
+310M100US29660,29660,"Laramie, WY Micro Area","Laramie, WY",6:34,36,86,181
+310M100US14460,14460,"Boston-Cambridge-Quincy, MA-NH Metro Area","Boston, MA",6:16,52,119,184
+310M100US34140,34140,"Moscow, ID Micro Area","Moscow, ID",6:19,47,105,203
+310M100US25700,25700,"Hays, KS Micro Area","Hays, KS",7:09,3,50,178
+310M100US28860,28860,"Kirksville, MO Micro Area","Kirksville, MO",6:42,26,79,201
+310M100US31380,31380,"Macomb, IL Micro Area","Macomb, IL",6:34,24,86,211
+310M100US20780,20780,"Edwards, CO Micro Area","Edwards, CO",6:38,25,88,165
+310M100US21380,21380,"Emporia, KS Micro Area","Emporia, KS",6:57,-11,63,230
+310M100US22380,22380,"Flagstaff, AZ Metro Area","Flagstaff, AZ",6:20,39,102,212
+310M100US13660,13660,"Big Rapids, MI Micro Area","Big Rapids, MI",7:13,-25,52,228
+310M100US36740,36740,"Orlando-Kissimmee-Sanford, FL Metro Area","Orlando, FL",6:59,9,74,159
+310M100US42940,42940,"Sevierville, TN Micro Area","Sevierville, TN",7:07,8,66,171
+310M100US14860,14860,"Bridgeport-Stamford-Norwalk, CT Metro Area","Bridgeport, CT",6:26,47,105,162
+310M100US31180,31180,"Lubbock, TX Metro Area","Lubbock, TX",7:20,-2,45,131
+310M100US29620,29620,"Lansing-East Lansing, MI Metro Area","Lansing, MI",7:10,0,58,161
+310M100US28060,28060,"Kalispell, MT Micro Area","Kalispell, MT",7:08,9,58,119
+310M100US28740,28740,"Kingston, NY Metro Area","Kingston, NY",6:28,36,103,171
+310M100US46380,46380,"Ukiah, CA Micro Area","Ukiah, CA",6:45,16,78,148
+310M100US35820,35820,"North Platte, NE Micro Area","North Platte, NE",7:15,-10,48,159
+310M100US44260,44260,"Starkville, MS Micro Area","Starkville, MS",6:28,40,96,212
+310M100US45340,45340,"Taos, NM Micro Area","Taos, NM",6:35,41,92,158
+310M100US16820,16820,"Charlottesville, VA Metro Area","Charlottesville, VA",6:46,33,85,144
+310M100US38540,38540,"Pocatello, ID Metro Area","Pocatello, ID",7:01,7,64,162
+310M100US29140,29140,"Lafayette, IN Metro Area","Lafayette, IN",7:19,-13,49,170
+310M100US14580,14580,"Bozeman, MT Micro Area","Bozeman, MT",6:55,22,72,143
+310M100US21660,21660,"Eugene-Springfield, OR Metro Area","Eugene, OR",6:43,24,86,178
+310M100US27220,27220,"Jackson, WY-ID Micro Area","Jackson, WY",6:54,20,71,134
+310M100US11180,11180,"Ames, IA Metro Area","Ames, IA",6:46,28,81,189
+310M100US48220,48220,"Weatherford, OK Micro Area","Weatherford, OK",7:07,5,56,170
+310M100US45940,45940,"Trenton-Ewing, NJ Metro Area","Trenton, NJ",6:31,41,101,163
+310M100US44660,44660,"Stillwater, OK Micro Area","Stillwater, OK",7:01,9,65,178
+310M100US34620,34620,"Muncie, IN Metro Area","Muncie, IN",7:13,-11,56,233
+310M100US14020,14020,"Bloomington, IN Metro Area","Bloomington, IN",7:18,-17,52,168
+310M100US36140,36140,"Ocean City, NJ Metro Area","Ocean City, NJ",6:30,40,100,164
+310M100US12700,12700,"Barnstable Town, MA Metro Area","Barnstable Town, MA",6:14,59,117,180
+310M100US34820,34820,"Myrtle Beach-North Myrtle Beach-Conway, SC Metro Area","Myrtle Beach, SC",6:48,26,85,192
+310M100US20500,20500,"Durham-Chapel Hill, NC Metro Area","Durham, NC",6:48,26,85,153
+310M100US39940,39940,"Rexburg, ID Micro Area","Rexburg, ID",6:58,18,68,183
+310M100US23540,23540,"Gainesville, FL Metro Area","Gainesville, FL",7:02,14,70,173
+310M100US18860,18860,"Crescent City, CA Micro Area","Crescent City, CA",6:48,18,77,190
+310M100US15060,15060,"Brookings, OR Micro Area","Brookings, OR",6:49,9,75,142
+310M100US13980,13980,"Blacksburg-Christiansburg-Radford, VA Metro Area","Blacksburg, VA",6:54,12,76,185
+310M100US33540,33540,"Missoula, MT Metro Area","Missoula, MT",7:07,10,62,159
+310M100US16260,16260,"Cedar City, UT Micro Area","Cedar City, UT",7:04,5,62,160
+310M100US33100,33100,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area","Miami, FL",6:54,23,86,160
+310M100US29700,29700,"Laredo, TX Metro Area","Laredo, TX",7:11,12,62,139
+310M100US26340,26340,"Houghton, MI Micro Area","Houghton, MI",7:25,-11,43,155
+310M100US36180,36180,"Ocean Pines, MD Micro Area","Ocean Pines, MD",6:32,47,102,178
+310M100US15580,15580,"Butte-Silver Bow, MT Micro Area","Butte, MT",7:01,10,67,176
+310M100US11820,11820,"Astoria, OR Micro Area","Astoria, OR",6:46,25,83,195
+310M100US20580,20580,"Eagle Pass, TX Micro Area","Eagle Pass, TX",7:15,1,56,146
+310M100US42100,42100,"Santa Cruz-Watsonville, CA Metro Area","Santa Cruz, CA",6:40,25,96,188
+310M100US44300,44300,"State College, PA Metro Area","State College, PA",6:43,33,91,184
+310M100US35620,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area","New York, NY",6:28,51,120,183
+310M100US30860,30860,"Logan, UT-ID Metro Area","Logan, UT",6:59,0,71,182
+310M100US16580,16580,"Champaign-Urbana, IL Metro Area","Champaign, IL",6:25,54,108,213
+310M100US28620,28620,"Kill Devil Hills, NC Micro Area","Kill Devil Hills, NC",6:35,36,97,162
+310M100US39340,39340,"Provo-Orem, UT Metro Area","Provo, UT",6:59,9,76,176
+310M100US41100,41100,"St. George, UT Metro Area","St. George, UT",7:06,-2,67,160
+310M100US41860,41860,"San Francisco-Oakland-Fremont, CA Metro Area","San Francisco, CA",6:41,38,103,173
+310M100US18700,18700,"Corvallis, OR Metro Area","Corvallis, OR",6:44,35,91,174
+310M100US43540,43540,"Silverthorne, CO Micro Area","Silverthorne, CO",6:36,45,97,162
+310M100US21700,21700,"Eureka-Arcata-Fortuna, CA Micro Area","Eureka, CA",6:48,30,88,172
+310M100US29940,29940,"Lawrence, KS Metro Area","Lawrence, KS",6:53,26,84,230
+310M100US28580,28580,"Key West, FL Micro Area","Key West, FL",7:00,15,74,153
+310M100US16060,16060,"Carbondale, IL Micro Area","Carbondale, IL",6:28,56,106,243
+310M100US11900,11900,"Athens, OH Micro Area","Athens, OH",7:00,18,77,212
+310M100US14500,14500,"Boulder, CO Metro Area","Boulder, CO",6:33,48,108,185
+310M100US34380,34380,"Mount Pleasant, MI Micro Area","Mount Pleasant, MI",7:10,4,66,321
+310M100US11460,11460,"Ann Arbor, MI Metro Area","Ann Arbor, MI",7:06,15,79,173
+310M100US41940,41940,"San Jose-Sunnyvale-Santa Clara, CA Metro Area","San Jose, CA",6:40,42,108,181
+310M100US39420,39420,"Pullman, WA Micro Area","Pullman, WA",6:19,68,123,238
+310M100US12100,12100,"Atlantic City-Hammonton, NJ Metro Area","Atlantic City, NJ",6:30,46,120,308
+310M100US46820,46820,"Vermillion, SD Micro Area","Vermillion, SD",6:59,33,85,318
+310M100US14380,14380,"Boone, NC Micro Area","Boone, NC",6:59,32,92,239
+310M100US27060,27060,"Ithaca, NY Metro Area","Ithaca, NY",6:37,54,120,217
