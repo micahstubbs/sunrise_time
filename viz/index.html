@@ -54,7 +54,7 @@ var chart = d3.select(".chart")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
  
-d3.json("time_after_sunrise__20_latest.json", function(error, data) {
+d3.json("time_after_sunrise__20_earliest.json", function(error, data) {
 
   xScale.domain([d3.min(data, function(d) { return d.q1 - 0.0001; }), d3.max(data, function(d) { return d.q1 + 0.0001; })]);
   yScale.domain(0, data.length)
